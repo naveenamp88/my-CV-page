@@ -3,9 +3,9 @@ My Professional CV Page
 # Naveen P.'s CV
 
 ## Contact Information
-- **Name**: Naveen P.
-- **Email**: your.email@example.com
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile)
+- **Name**: Palanichamy Naveen
+- **Email**: naveenamp88@gmail.com
+- **LinkedIn**: https://www.linkedin.com/in/naveen-p-31b330204/
 - **GitHub**: [Your GitHub Profile](https://github.com/yourusername)
 
 ## Education
