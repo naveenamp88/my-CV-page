@@ -7,8 +7,6 @@ Email: naveenamp88@gmail.com
 ---
 # About Palanichamy Naveen
 
-![Palanichamy Naveen](Q 2496 JMa.jpg)
-
 Palanichamy Naveen received a B.E. in Electronics and Communication Engineering from Arulmigu Kalasalingam College of Engineering, [now Kalasalingam Academy of Research and Education] (Anna University, Chennai) in 2009. He obtained an M.E. in Power Electronics and Drives from Sri Sivasubramaniya Nadar College of Engineering ([2023] NIRF – 29) (Anna University, Chennai) in 2011. In 2022, he completed his Ph.D. in the field of Image Processing and Machine Learning from Kalasalingam Academy of Research and Education (THE World University Ranking [2023] 601-800, NIRF - 29). 
 
 School Topper and Rank Holder in 10th and 12th through State Board, passed out in 2003 and 2005, respectively. He has about 13 years of teaching experience at various levels and is currently holding the responsibility of Coordinator - Sponsored Research in the Centre for Research and Development, as well as the position of Assistant Professor in the Department of Electrical and Electronics Engineering at KPR Institute of Engineering and Technology, Coimbatore, India. He is also Visiting Researcher at University of Hradec Králové, Czech Republic.
