@@ -273,7 +273,7 @@ He is a **certified translator** for online courses organized by NPTEL (National
 - **Research Gate**: [https://www.researchgate.net/profile/Naveen-P](https://www.researchgate.net/profile/Naveen-P)
 - **LinkedIn**: [https://www.linkedin.com/in/naveen-p-31b330204/](https://www.linkedin.com/in/naveen-p-31b330204/)
 
-### Events Organized
+## Events Organized
 
 1. **IEEE 2025 International Conference on Cognitive Robotics and Intelligent Systems**, Coimbatore, India
 2. **IEEE 2024 International Conference on Cognitive Robotics and Intelligent Systems**, Coimbatore, India
@@ -285,7 +285,7 @@ He is a **certified translator** for online courses organized by NPTEL (National
 8. **Intra Departmental Symposium**, Feb 2017
 9. **One Credit Course on System Verilog**, Kalasalingam University, Oct 2016
 
-# Participation in Courses, Webinars, and Workshops
+## Participation in Courses, Webinars, and Workshops
 
 - Participated in 5 days Short Term Course and Faculty Development Program on “Applications of Machine Learning Techniques in Sustainable Technologies (AMLST-2024)” held online from 24th Jan 2024 to 28th Jan 2024 organized by Department of Computer Science & Engineering and Electrical Engineering, National Institute of Technology Rourkela, Rourkela, Odisha, India.
 - Attended educational webinar on “Reviewer Roulette: Understanding reviewer behaviors and motivations to improve our responses” organized by LetPub Learning Nexus on August 23, 2023.
@@ -340,33 +340,33 @@ He is a **certified translator** for online courses organized by NPTEL (National
 - Two days’ Workshop on Art of Counseling at Kalasalingam Academy of Research and Education during Aug 2011.
 - One day Workshop on Intellectual Property Rights at Kalasalingam Academy of Research and Education during Aug 2011.
 
-# As Resource Person
+## As Resource Person
 
 - One-day Guest Lecture on Machine Learning Algorithms at Avinashilingam University, Campus-II, Coimbatore during Jan 2024.
 - One-day Guest Lecture on Linear Control Systems at Electrical and Electronics Engineering, Kalasalingam Academy of Research and Education during Dec 2019.
 - One-day Guest Lecture on Signal Processing Using MATLAB at Veerachamy Chettiar College of Engineering and Technology, Puliangudi during Aug 2016.
 
-### Responsibilities Held
+## Responsibilities Held
 
 - **Assistant Director – Accreditation and Ranking**
-- **Overall Coordinator – NIRF (June 2021 to May 2023)**
-- **Coordinator - Sponsored Research (From May 2023)**
-- **Valuation Centre In-charge (4 years)**
-- **University Admission – Overall Coordinator (4 months)**
-- **Project Coordinator (3 years, 3 – UG, 2 - PG)**
-- **One Credit Course In-charge (2 years)**
-- **Community Service Project Coordinator (3 years)**
-- **Department Timetable Cell In-charge (1 year)**
-- **End Semester Practical Timetable In-charge (1 year)**
-- **Online Course In-charge (2 years)**
-- **Theory with Laboratory Course In-charge (1 year)**
-- **Laboratory with Practical Course In-charge (1 year)**
-- **Department Library In-charge (4 years)**
-- **Placement Coordinator (3 years)**
-- **Alumni Coordinator – [1985-89 Batch]**
-- **Department Stock Details In-charge (3 years)**
-- **Class Coordinator (12 years)**
-- **Faculty Advisor (12 years)**
+- **Overall Coordinator – NIRF** (June 2021 to May 2023)
+- **Coordinator - Sponsored Research** (From May 2023)
+- **Valuation Centre In-charge** (4 years)
+- **University Admission – Overall Coordinator** (4 months)
+- **Project Coordinator** (3 years, 3 – UG, 2 - PG)
+- **One Credit Course In-charge** (2 years)
+- **Community Service Project Coordinator** (3 years)
+- **Department Timetable Cell In-charge** (1 year)
+- **End Semester Practical Timetable In-charge** (1 year)
+- **Online Course In-charge** (2 years)
+- **Theory with Laboratory Course In-charge** (1 year)
+- **Laboratory with Practical Course In-charge** (1 year)
+- **Department Library In-charge** (4 years)
+- **Placement Coordinator** (3 years)
+- **Alumni Coordinator** – [1985-89 Batch]
+- **Department Stock Details In-charge** (3 years)
+- **Class Coordinator** (12 years)
+- **Faculty Advisor** (12 years)
 
 
 
