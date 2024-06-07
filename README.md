@@ -266,8 +266,6 @@ He is a certified translator for online courses organized by NPTEL (National Pro
 - **Administrative Roles**: 20
 - **Workshop and Seminar Attended**: 25
 
-
-
 ## Professional Links
 
 - **Orcid**: [https://orcid.org/0000-0002-5202-2557](https://orcid.org/0000-0002-5202-2557)
@@ -289,33 +287,66 @@ He is a certified translator for online courses organized by NPTEL (National Pro
 8. **Intra Departmental Symposium**, Feb 2017
 9. **One Credit Course on System Verilog**, Kalasalingam University, Oct 2016
 
-### Events Attended
+# Participation in Courses, Webinars, and Workshops
 
-1. **Short Term Course and Faculty Development Program on “Applications of Machine Learning Techniques in Sustainable Technologies (AMLST-2024)”**, NIT Rourkela, Jan 2024
-2. **Webinar on “Reviewer Roulette: Understanding reviewer behaviors and motivations to improve our responses”**, LetPub Learning Nexus, Aug 2023
-3. **Short Term Course on “Security in Artificial Intelligence: Strategies and Best Practices”**, Dr. B R Ambedkar NIT, June 2023
-4. **Faculty Development Program on “Recent Advancements and Applications of Data Science”**, Paavai Engineering College, June 2022
-5. **Faculty Development Program on “Recent Trends on Healthcare Applications using Machine Learning”**, Kings Engineering College, June 2022
-6. **Extramural Lecture Series NT-004 “Research Aspects and Role of Engineers in Ocean Data Collection”**, Ramco Institute of Technology, Dec 2021
-7. **Online workshop on Analog and Digital System Design using Cadence Tool**, Sri Eshwar College of Engineering, Oct 2021
-8. **Workshop titled “Artificial Intelligent Techniques to Address Societal Challenges”**, IEEE India Council, Oct 2021
-9. **Faculty Development Program on Introduction to Machine Learning**, NPTEL-AICTE, Nov 2021
-10. **Faculty Development Program on "Societal Applications of AI, Blockchain, and IoT”**, Shri Vishnu Engineering College for Women, Sep 2021
-11. **IEEE Electron Devices Society (EDS) Distinguished Lecture (DL) on GaN-on-Si Technology for Power, RF & Specials**, IMS Mikro-Nano Produkte GmbH, July 2021
-12. **Short-Term Training Program (STTP) on "Advanced Technology to Bridge the Gap Between Medical Science and Engineering for The Benefit of Mankind”**, JIS College of Engineering, July 2021
-13. **Workshop titled “Artificial Intelligent Techniques to Address Societal Challenges”**, IEEE India Council, Oct 2021
-14. **Webinar on Electric Vehicle Architecture Design and Analysis of The Event by ASPIRE-ICAT and MathWorks**, Sep 2021
-15. **Faculty Development Program on "Societal Applications of AI, Blockchain, and IoT”**, Shri Vishnu Engineering College for Women, Sep 2021
-16. **Faculty Development Program on Python for Data Science**, NPTEL-AICTE, Mar 2021
-17. **Faculty Development Program on Fundamentals of Artificial Intelligence**, NPTEL-AICTE, Dec 2020
-18. **Faculty Development Program (FDP) on "Blockchain Technology”**, SRM Institute of Science and Technology, July 2021
-19. **Faculty Development Program on “Artificial Intelligence”**, Canara Engineering College, Dec 2020
-20. **Faculty Development Program on “Internet of Things (IoT)”**, IIIT Tiruchirappalli, Nov 2020
-21. **Faculty Development Program on RF devices for 5G Communications & Measuring Instruments**, Entuple Technologies, Oct 2020
-22. **Webinar on social media, Democracy and Online Hate**, IEEE Hyderabad Section, July 2020
-23. **Faculty Development Program on Fundamentals of Image Processing**, RMK College of Engineering and Technology, June 2020
-24. **Webinar on Artificial Intelligence and the era of Autonomous Shipping**, St. Joseph Institute of Technology, June 2020
-25. **Webinar on Tips for Participating in a Hackathon**, i4C, Pune, June 2020
+- Participated in 5 days Short Term Course and Faculty Development Program on “Applications of Machine Learning Techniques in Sustainable Technologies (AMLST-2024)” held online from 24th Jan 2024 to 28th Jan 2024 organized by Department of Computer Science & Engineering and Electrical Engineering, National Institute of Technology Rourkela, Rourkela, Odisha, India.
+- Attended educational webinar on “Reviewer Roulette: Understanding reviewer behaviors and motivations to improve our responses” organized by LetPub Learning Nexus on August 23, 2023.
+- Participated in 5 days Short Term Course on “Security in Artificial Intelligence: Strategies and Best Practices” held online from 14th June 2023 to 18th June 2023 organized by Department of Computer Science & Engineering, Dr. B R Ambedkar National Institute of Technology, Jalandhar, Punjab, India.
+- Participated in Six days Faculty Development Program on “Recent Advancements and Applications of Data Science” organized by Paavai Engineering College from 27th June 2022 to 02nd July 2022.
+- Participated in Six days Faculty Development Program on “Recent Trends on Healthcare Applications using Machine Learning” organized by Kings Engineering College, Chennai from 13th to 18th June, 2022.
+- Participated in the Extramural Lecture Series NT-004 “Research Aspects and Role of Engineers in Ocean Data Collection” conducted on 19.12.2021 by Department of Mechanical Engineering, Ramco Institute of Technology, Rajapalayam.
+- Participated in Two days Online workshop on Analog and Digital System Design using Cadence Tool from 26.10.2021 to 27.10.2021 organized by Sri Eshwar College of Engineering, Coimbatore.
+- Participated in the workshop titled “Artificial Intelligent Techniques to Address Societal Challenges” from 1st to 3rd October, 2021 organized by IEEE India Council.
+- Ten days Faculty Development Program on Introduction to Machine Learning organized by NPTEL-AICTE in Nov 2021.
+- One Week National Level Online Faculty Development Program(FDP) on "Societal Applications of AI, Blockchain, and IoT” organized by the Department of Computer Science & Engineering of Shri Vishnu Engineering College for Women(A) from 1-5, September 2021.
+- Participated in IEEE Electron Devices Society (EDS) Distinguished Lecture (DL) on GaN-on-Si Technology for Power, RF & Specials Delivered by Prof. Joachim N. Burghartz, CEO of the IMS Mikro-Nano Produkte GmbH, Germany held On July 27, 2021.
+- One week ATAL sponsored Online Short-Term Training Program (STTP) on "Advanced Technology to Bridge the Gap Between Medical Science and Engineering for The Benefit of Mankind” from 26.07.2021 to 31.07.2021 at JIS College of Engineering, Kalyani.
+- Three days’ workshop titled “Artificial Intelligent Techniques to Address Societal Challenges” from 1st to 3rd October 2021 Organized by IEEE India Council Educational Activities Committee in Association with IEEE Madras Section, Pune Section, Educational Society, Hyderabad Section and YP, Madras Section.
+- Five days webinar on Electric Vehicle Architecture Design and Analysis of The Event by ASPIRE-ICAT and MathWorks from 03rd Sep to 07th Sep 2021.
+- One Week National Level Online Faculty Development Program (FDP) on "Societal Applications of AI, Blockchain, and IoT” organized by the Department of Computer Science & Engineering of Shri Vishnu Engineering College for Women(A) from 1-5, September 2021.
+- Five days Faculty Development Program on Python for Data Science organized by NPTEL-AICTE in Mar 2021.
+- Ten days Faculty Development Program on Fundamentals of Artificial Intelligence organized by NPTEL-AICTE in Dec 2020.
+- Two days Faculty Development Program (FDP) on "Blockchain Technology” conducted by SRM Institute of Science and Technology, Chennai on 23.07.2021 to 24.07.2021.
+- Five days ATAL sponsored Online Faculty Development Program on “Artificial Intelligence” from 14-12-2020 to 18-12-2020 at Canara Engineering College.
+- Five days ATAL sponsored Online Faculty Development Program on “Internet of Things (IoT)” from 23-11-2020 to 27-11-2020 at Indian Institute of Information Technology Tiruchirappalli.
+- Five days Faculty Development Program on RF devices for 5G Communications & Measuring Instruments by Entuple Technologies, Bangalore from 12th Oct 2020 to 16th Oct 2020.
+- Webinar on social media, Democracy and Online Hate by IEEE Hyderabad Section CS Chapter on 25th July 2020.
+- Faculty Development Program on Fundamentals of Image Processing by RMK College of Engineering and Technology, Chennai on 26th June 2020.
+- Webinar on Artificial Intelligence and the era of Autonomous Shipping by St.Jospeh Institute of Technology on 27th June 2020.
+- Webinar on Tips for Participating in a Hackathon by i4C, Pune on 6th June 2020.
+- Webinar on How to be an Ethical Hacker by Saveetha Engineering College, Chennai on 13th June 2020.
+- Five days National Level Faculty Development Program on Recent Trends in Wireless and IoT-enabled Networks organized by Elysium Academy Private Limited, Bangalore from 19th May 2020 to 23rd May 2020.
+- Presented a paper under the title “Smart Public Transportation Using IoT” in the International Conference on Automation, Signal Processing and Energy System (ICASE) 2020 organized by the School of Electronics and Electrical Technology, Kalasalingam Academy of Research and Education during 19th to 20th June 2020 through online.
+- Four days Webinar on India First Leadership Talk by MHRD Innovation Cell during May 2020.
+- Two days Online Faculty Training on "Project Proposal Writing" organized by Office of FA & CLT, Kalasalingam Academy of Research and Education, Krishnankoil.
+- Webinar on Advancement in Solar PV and Thermal Technologies by P. S. R. Engineering College, Sivakasi during May 2020.
+- One day Workshop on eSim, a First Course in the IoT Series for Teachers by Teaching Learning Centre ICT at IIT Bombay during Nov 2019.
+- Two days National Level Seminar on Research Perspectives in FPGA based Medical Electronic Devices for Health Care Applications at PSG College of Technology during March 2018.
+- Seven days Short Term Course on Opportunities and Challenges in IoT: Use cases and Security at Coimbatore Institute of Technology during May 2018.
+- Ten days Faculty Development Program on Digital Image Processing organized by NPTEL-AICTE during Oct 2018.
+- Ten days Faculty Development Program on Deep Learning organized by NPTEL-AICTE during Oct 2018.
+- Six days Faculty Development Program on Machine Intelligence and IoT at Kalasalingam Academy of Research and Education during July 2018.
+- Two days National Level Seminar on Network Security at Kalasalingam Academy of Research and Education during Feb 2018.
+- Five days Faculty Development Program on Digital Filter Design with MATLAB and Digital Signal Processor at Kalasalingam University during Oct 2017.
+- One day Workshop on Proteus by Prolific System and Technologies at Kalasalingam Academy of Research and Education during Mar 2017.
+- One-day Workshop on Art of Counselling at Kalasalingam Academy of Research and Education during Feb 2017.
+- One-day International Seminar on Informatics and Wearable Smart Sensors at Kalasalingam Academy of Research and Education during Nov 2017.
+- Two days Faculty Development Program on Realization of IoT Using Raspberry PI at NIT Trichy during Dec 2016.
+- Two days Faculty Development Program on Advanced Image Processing using MATLAB at PSG College of Technology during Jan 2016.
+- Four days Faculty Development Program on Control Systems and its Applications using MATLAB at Kalasalingam Academy of Research and Education during Dec 2016.
+- Five days Faculty Development Program on Digital Image processing at Kalasalingam Institute of Technology during June 2016.
+- Three days Faculty Development Program on Advanced Teaching and Learning Methodologies at Kalasalingam Institute of Technology during Nov 2016.
+- Two days’ Workshop on Digital Image Processing at PSG College of Technology during Aug 2015.
+- Seven days Faculty Development Program on Power System Operation and Control at Sri Krishna College of Technology during June 2013.
+- Two days National Level Seminar on HVDC and FACTS Technologies at Sri Krishna College of Technology during July 2012.
+- Two days’ Workshop on Art of Counseling at Kalasalingam Academy of Research and Education during Aug 2011.
+- One day Workshop on Intellectual Property Rights at Kalasalingam Academy of Research and Education during Aug 2011.
+
+# As Resource Person
+
+- One-day Guest Lecture on Machine Learning Algorithms at Avinashilingam University, Campus-II, Coimbatore during Jan 2024.
+- One-day Guest Lecture on Linear Control Systems at Electrical and Electronics Engineering, Kalasalingam Academy of Research and Education during Dec 2019.
+- One-day Guest Lecture on Signal Processing Using MATLAB at Veerachamy Chettiar College of Engineering and Technology, Puliangudi during Aug 2016.
 
 ### Responsibilities Held
 
