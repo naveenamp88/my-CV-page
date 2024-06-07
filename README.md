@@ -49,7 +49,7 @@ He is a certified translator for online courses organized by NPTEL (National Pro
 ## Publications
 
 ### Authored Book
-- Naveen, P. "Understanding the Metaverse and its Technological Marvels: Beyond Reality." Cambridge Scholars Publishing (2024).
+- Naveen, P. "Understanding the Metaverse and its Technological Marvels: Beyond Reality." Cambridge Scholars Publishing (2024). [Link](https://www.cambridgescholars.com/product/978-1-5275-6577-7)
 
 ### Journals and Conferences
 
