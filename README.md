@@ -7,6 +7,19 @@ Mobile: +91-86674 05042
 Email: naveenamp88@gmail.com  
 
 ---
+# About Naveen P.
+
+Naveen P. received a B.E. in Electronics and Communication Engineering from Arulmigu Kalasalingam College of Engineering, [now Kalasalingam Academy of Research and Education] (Anna University, Chennai) in 2009. He obtained an M.E. in Power Electronics and Drives from Sri Sivasubramaniya Nadar College of Engineering ([2023] NIRF – 29) (Anna University, Chennai) in 2011. In 2022, he completed his Ph.D. in the field of Image Processing and Machine Learning from Kalasalingam Academy of Research and Education (THE World University Ranking [2023] 601-800, NIRF - 29). 
+
+School Topper and Rank Holder in 10th and 12th through State Board, passed out in 2003 and 2005, respectively. He has about 13 years of teaching experience at various levels and is currently holding the responsibility of Coordinator - Sponsored Research in the Centre for Research and Development, as well as the position of Assistant Professor in the Department of Electrical and Electronics Engineering at KPR Institute of Engineering and Technology, Coimbatore, India. He is also Visiting Researcher at University of Hradec Králové, Czech Republic.
+
+Prior to joining KPR Institute of Engineering and Technology, he was associated as NIRF Co-ordinator at Sri Eshwar College of Engineering for 2 years and also served as Assistant Director - Accreditation and Ranking at Kalasalingam Academy of Research and Education. His research interests include Image Processing and Machine Learning. He received the best faculty award from Kalasalingam Academy of Research and Education in the year 2019. He published an authored book titled "Understanding the Metaverse and its Technological Marvels: Beyond Reality". 
+
+He has published around 25 papers in International Journals and International Conferences. He also published 4 patents. He is presently an Associate Editor in the Journal of Intelligent and Fuzzy Systems and AD ALTA-Journal of Interdisciplinary Research. He currently serves as an Editorial Board member for the International Journal of Interactive Multimedia and Artificial Intelligence, ADCAIJ: Advances in Distributed Computing and Artificial Intelligence Journal, International Research Journal of Multidisciplinary Technovation (IRJMT), and Journal of Current Science and Technology. 
+
+He has also been serving as a review board member for peer-reviewed journals. In addition to his regular academic activities, he has played a vital role in various Accreditation processes (ABET, NBA, NAAC, UGC, AICTE), Ranking activities (NIRF, THE World University Rankings), Placement Activities (Placement Coordinator), examination cell duties (Valuation Centre in-charge), and Institution admission procedures (Overall Admission Coordinator). He has reviewed 250+ articles for reputable journals and conferences. Additionally, he has completed more than 21 Professional Certifications from various platforms such as NPTEL, Coursera, HP, and IEEE. 
+
+He is a certified translator for online courses organized by NPTEL (National Programme on Technology Enhanced Learning), a joint venture of the IITs and IISc.
 
 ## Education
 
@@ -38,8 +51,7 @@ Email: naveenamp88@gmail.com
 ### Authored Book
 - Naveen, P. "Understanding the Metaverse and its Technological Marvels: Beyond Reality." Cambridge Scholars Publishing (2024).
 
-### Selected Journal Papers
-# Journals and Conferences
+### Journals and Conferences
 
 1. Naveen, P., Hassaballah, M. "Scene text detection using structured information and an end-to-end trainable generative adversarial networks." *Pattern Analysis and Applications*, Volume 27, no. 33 (2024). [DOI: 10.1007/s10044-024-01259-y](https://doi.org/10.1007/s10044-024-01259-y) [Science Citation Index Expanded, Impact factor: 3.9 (2022)]
 2. Naveen, P., Jayaraghavi, R. "Image Steganography Method for Securing Multiple Images Using LSB–GA." *Wireless Personal Communication* (2024). [DOI: 10.1007/s11277-024-10945-3](https://doi.org/10.1007/s11277-024-10945-3) [Science Citation Index Expanded, Impact factor: 2.2 (2022)]
@@ -116,8 +128,33 @@ Email: naveenamp88@gmail.com
 - Reviewed 250+ articles for reputable journals and conferences
 
 ## Professional Certifications
+- Successfully Completed Skill Assessment on VLSI, VHDL & PCB Design from Hewlett Packard Enterprise in November 2018. (Credential ID and URL: HPE/CoC/ET/1811-04023, [https://hpepro.com/everify](https://hpepro.com/everify))
+- Successfully completed Online Course on Python 101 for Data Science by IBM offered through Simplilearn Online Certification during Aug-Sep 2022.
+- Successfully completed Online Course on Introduction to Machine Learning by IIT Madras offered through NPTEL Online Certification during July-Nov 2021.
+- Successfully completed Online Course on Python for Data Science with Elite grade by IIT Madras offered through NPTEL Online Certification during Jan-Feb 2021.
+- Successfully completed Online Course on Fundamentals of Artificial Intelligence by IIT Guwahati offered through NPTEL Online Certification during Sep-Dec 2020.
+- Successfully completed Online Course on Digital Image Processing with Elite grade by IIT Kharagpur offered through NPTEL Online Certification during July-Oct 2018.
+- Successfully completed Online Course on Deep Learning with Elite grade by IIT Roopar offered through NPTEL Online Certification during July-Oct 2018.
+- Successfully completed an Online non-credit course authorized by University of Maryland, College Park and offered through Coursera in Software Security in Oct 2021.
+- Successfully completed an Online non-credit course authorized by University at Buffalo and The State University of New York and offered through Coursera in Blockchain Basics in Oct 2020.
+- Successfully completed an Online non-credit course authorized by University of Michigan and offered through Coursera in Programming for Everybody (Getting Started with Python) in Oct 2020.
+- Successfully completed an Online non-credit course authorized by University of California San Diego and offered through Coursera in Introduction to Big Data in Sep 2020.
+- Successfully completed an Online non-credit course authorized by Amazon Web Services and offered through Coursera in Getting Started with AWS Machine Learning in Aug 2020.
+- Successfully completed an Online non-credit course authorized by Northwestern University and offered through Coursera in Fundamentals of Digital Image and Video Processing in Nov 2016.
+- Successfully completed IEEE Continuing Education Online Course on Enterprise Blockchain Overview on 5 Jan 2021.
+- Successfully completed IEEE Continuing Education Online Course on Enterprise Blockchain for the Internet of Things on 10 June 2020.
+- Successfully completed IEEE Continuing Education Online Course on Biometrics for Recognition at a Distance on 26 May 2020.
+- Successfully completed IEEE Continuing Education Online Course on Human Emotion in Devices and Technology on 22 May 2020.
+- Successfully completed IEEE Continuing Education Online Course on Understanding Blockchain Technology: The Costs and Benefits of Decentralization on 19 May 2020.
 
-- Completed more than 21 Professional Certifications from platforms such as NPTEL, Coursera, HP, and IEEE
+# Others
+
+- Translator for the Course **Computer architecture and organization (106105163)** offered by IIT Kharagpur in Tamil Language for 10 hours during Oct-Dec 2023.
+- Translator for the Course **Nonlinear and Adaptive Control (108102113)** offered by IIT Delhi in Tamil Language for 5 hours during Feb-Mar 2022.
+- Translator for the Course **Sensors and Actuators (108108147)** offered by IISC Bangalore in Tamil Language for 5.25 hours during July-Nov 2021.
+- Translator for the Course **Basic Electric Circuits (108104139)** offered by IIT Kanpur in Tamil Language for 5.5 hours during Jan-June 2021.
+- Translator for the Course **Electrical Measurement and Electronic Instruments (108105153)** offered by IIT Kharagpur in Tamil Language for 56 hours during July-Nov 2020.
+
 
 ## Skills
 
@@ -175,6 +212,41 @@ Email: naveenamp88@gmail.com
 - **Valuation Centre In-charge**
   - Overseeing examination and valuation processes
 
+### Achievements in Administrative Role
+
+- **Assistant Director – Accreditation and Ranking**
+  - ABET Accreditation, NBA, NAAC
+
+  | Year | NIRF Ranking - Engineering | NIRF Ranking - University | Institution |
+  |------|----------------------------|---------------------------|-------------|
+  | 2021 | 56                         | 50                        | Kalasalingam Academy of Research and Education, Krishnankoil |
+  | 2020 | 60                         | 72                        | Kalasalingam Academy of Research and Education, Krishnankoil |
+  | 2019 | 61                         | NA                        | Kalasalingam Academy of Research and Education, Krishnankoil |
+
+- **NIRF Coordinator**
+
+  | Year | NIRF Ranking - Cumulative Points | Institution |
+  |------|----------------------------------|-------------|
+  | 2023 | 29.97                            | Sri Eshwar College of Engineering, Coimbatore |
+  | 2022 | 28.02                            | Sri Eshwar College of Engineering, Coimbatore |
+  | 2021 | 27.12                            | Sri Eshwar College of Engineering, Coimbatore |
+
+- **Placement Coordinator**
+
+  | Academic Year | No. of Students Placed | % of Students Placed | Median Salary per annum |
+  |---------------|------------------------|----------------------|-------------------------|
+  | 2015-16       | 171                    | 89.06                | 3,50,000                |
+  | 2014-15       | 157                    | 82.63                | 3,25,000                |
+  | 2013-14       | 97                     | 75.19                | 3,00,000                |
+
+- **University Admission - Overall Coordinator**
+
+  | Academic Year | No. of Sanctioned Intake | No. of Students Admitted |
+  |---------------|--------------------------|-------------------------|
+  | 2018-19       | 1748                     | 1748                    |
+  | 2017-18       | 1835                     | 1835                    |
+  | 2016-17       | 1550                     | 1550                    |
+
 ## Academic Summary
 
 - **Professional Certification**: 21
@@ -194,26 +266,7 @@ Email: naveenamp88@gmail.com
 - **Administrative Roles**: 20
 - **Workshop and Seminar Attended**: 25
 
-## Publications and Patents
 
-### Authored Book
-
-1. Naveen, P. "Understanding the Metaverse and its Technological Marvels: Beyond Reality." Cambridge Scholars Publishing (2024). ISBN: 1-5275-6577-7, ISBN13: 978-1-5275-6577-7. [Link](https://www.cambridgescholars.com/product/978-1-5275-6577-7)
-
-### Journals and Conferences
-
-1. Naveen, P., Hassaballah, M. "Scene text detection using structured information and an end-to-end trainable generative adversarial networks." Pattern Analysis and Applications, Volume 27, no. 33 (2024). [DOI: 10.1007/s10044-024-01259-y]
-2. Naveen, P., Jayaraghavi, R. "Image Steganography Method for Securing Multiple Images Using LSB–GA." Wireless Personal Communication (2024). [DOI: 10.1007/s11277-024-10945-3]
-3. Naveen, P. "Occlusion-aware facial expression recognition: A deep learning approach." Multimedia Tools and Applications (2023). [DOI: 10.1007/s11042-023-17013-1]
-4. Naveen, P., Rajagopal Maheswar, Pavel Trojovský. "GeoNLU: Bridging the gap between natural language and spatial data infrastructures." Alexandria Engineering Journal, Volume 87, 2024. [DOI: 10.1016/j.aej.2023.12.027]
-5. Naveen, P., NithyaSai, S., Udayamoorthy, V., Kumar, S.R. "Fault diagnosis in semiconductor manufacturing processes using a CNN-based generative adversarial network." Journal of Intelligent & Fuzzy Systems, vol. 46, no. 1, pp. 1789-1800, 2024. [DOI: 10.3233/JIFS-231948]
-
-### Patents
-
-1. S. Shasi anand, P. JayaKumar, J. Deny, P. Naveen, G. Ramesh, “Tactile Mat With Sensor”, B60N0003040000, Oct 02, 2020.
-2. S. Shasi anand, P. JayaKumar, J. Deny, P. Naveen, G. Ramesh, “IV Fluid Level Alarming Device”, A61B0005022000, Oct 02, 2020.
-3. S. Shasi anand, P. JayaKumar, J. Deny, P. Naveen, G. Ramesh, “Mouse Trap Fencing”, A01M0023300000, Oct 02, 2020.
-4. S. R. Ashokkumar, S. Dhamodharan, C. Vivek, C. Ganesh, P. Naveen, M. Premkumar, “Polarization Speckle In Skin Cancer Detection And Monitoring”, 202241057874 A, Oct 14, 2022.
 
 ## Professional Links
 
@@ -286,49 +339,6 @@ Email: naveenamp88@gmail.com
 - **Class Coordinator (12 years)**
 - **Faculty Advisor (12 years)**
 
-### Achievements in Administrative Role
-
-- **Assistant Director – Accreditation and Ranking**
-  - ABET Accreditation, NBA, NAAC
-
-  | Year | NIRF Ranking - Engineering | NIRF Ranking - University | Institution |
-  |------|----------------------------|---------------------------|-------------|
-  | 2021 | 56                         | 50                        | Kalasalingam Academy of Research and Education, Krishnankoil |
-  | 2020 | 60                         | 72                        | Kalasalingam Academy of Research and Education, Krishnankoil |
-  | 2019 | 61                         | NA                        | Kalasalingam Academy of Research and Education, Krishnankoil |
-
-- **NIRF Coordinator**
-
-  | Year | NIRF Ranking - Cumulative Points | Institution |
-  |------|----------------------------------|-------------|
-  | 2023 | 29.97                            | Sri Eshwar College of Engineering, Coimbatore |
-  | 2022 | 28.02                            | Sri Eshwar College of Engineering, Coimbatore |
-  | 2021 | 27.12                            | Sri Eshwar College of Engineering, Coimbatore |
-
-- **Placement Coordinator**
-
-  | Academic Year | No. of Students Placed | % of Students Placed | Median Salary per annum |
-  |---------------|------------------------|----------------------|-------------------------|
-  | 2015-16       | 171                    | 89.06                | 3,50,000                |
-  | 2014-15       | 157                    | 82.63                | 3,25,000                |
-  | 2013-14       | 97                     | 75.19                | 3,00,000                |
-
-- **University Admission - Overall Coordinator**
-
-  | Academic Year | No. of Sanctioned Intake | No. of Students Admitted |
-  |---------------|--------------------------|-------------------------|
-  | 2018-19       | 1748                     | 1748                    |
-  | 2017-18       | 1835                     | 1835                    |
-  | 2016-17       | 1550                     | 1550                    |
-
-### Translator Roles
-
-- Translator for the Course **Computer Architecture and Organization (106105163)** offered by IIT Kharagpur in Tamil Language for 10 hours during Oct-Dec 2023.
-- Translator for the Course **Nonlinear and Adaptive Control (108102113)** offered by IIT Delhi in Tamil Language for 5 hours during Feb-Mar 2022.
-- Translator for the Course **Sensors and Actuators (108108147)** offered by IISC Bangalore in Tamil Language for 5.25 hours during July-Nov 2021.
-- Translator for the Course **Basic Electric Circuits (108104139)** offered by IIT Kanpur in Tamil Language for 5.5 hours during Jan-June 2021.
-- Translator for the Course **Electrical Measurement and Electronic Instruments (108105153)** offered by IIT Kharagpur in Tamil Language for 56 hours during July-Nov 2020.
-
 ### References
 
 1. **Dr. N. Rajini**
@@ -370,11 +380,10 @@ Email: naveenamp88@gmail.com
    - Email: rlangari@tamu.edu
 
 
-
 ## Other details
 
 - **Language Proficiency**: English, Tamil 
-- **Date of Birth**: 02nd June, 1988 (35 years)
+- **Date of Birth**: 02nd June, 1988 (36 years)
 - **Marital Status**: Married
 
 For Certification Category, Proof available at [LinkedIn](https://www.linkedin.com/in/naveen-p-31b330204/)
