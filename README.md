@@ -7,7 +7,7 @@ Email: naveenamp88@gmail.com
 ---
 # About Palanichamy Naveen
 
-![Palanichamy Naveen](Q 2496 JMa.jpg)
+![Palanichamy Naveen](Q2496JMa.jpg)
 
 Palanichamy Naveen received a B.E. in Electronics and Communication Engineering from Arulmigu Kalasalingam College of Engineering, [now Kalasalingam Academy of Research and Education] (Anna University, Chennai) in 2009. He obtained an M.E. in Power Electronics and Drives from Sri Sivasubramaniya Nadar College of Engineering ([2023] NIRF – 29) (Anna University, Chennai) in 2011. In 2022, he completed his Ph.D. in the field of Image Processing and Machine Learning from Kalasalingam Academy of Research and Education (THE World University Ranking [2023] 601-800, NIRF - 29). 
 
