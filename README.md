@@ -1,5 +1,3 @@
-# my-CV-page
-My Professional CV Page
 # Dr. PALANICHAMY NAVEEN, Ph.D.
 
 PCA 101, First Floor, Prime City, Kumudham Nagar, Cheranma Nagar, Coimbatore – 641 035, Coimbatore, Tamil Nadu, INDIA.  
@@ -7,9 +5,9 @@ Mobile: +91-86674 05042
 Email: naveenamp88@gmail.com  
 
 ---
-# About Naveen P.
+# About Palanichamy Naveen
 
-Naveen P. received a B.E. in Electronics and Communication Engineering from Arulmigu Kalasalingam College of Engineering, [now Kalasalingam Academy of Research and Education] (Anna University, Chennai) in 2009. He obtained an M.E. in Power Electronics and Drives from Sri Sivasubramaniya Nadar College of Engineering ([2023] NIRF – 29) (Anna University, Chennai) in 2011. In 2022, he completed his Ph.D. in the field of Image Processing and Machine Learning from Kalasalingam Academy of Research and Education (THE World University Ranking [2023] 601-800, NIRF - 29). 
+Palanichamy Naveen received a B.E. in Electronics and Communication Engineering from Arulmigu Kalasalingam College of Engineering, [now Kalasalingam Academy of Research and Education] (Anna University, Chennai) in 2009. He obtained an M.E. in Power Electronics and Drives from Sri Sivasubramaniya Nadar College of Engineering ([2023] NIRF – 29) (Anna University, Chennai) in 2011. In 2022, he completed his Ph.D. in the field of Image Processing and Machine Learning from Kalasalingam Academy of Research and Education (THE World University Ranking [2023] 601-800, NIRF - 29). 
 
 School Topper and Rank Holder in 10th and 12th through State Board, passed out in 2003 and 2005, respectively. He has about 13 years of teaching experience at various levels and is currently holding the responsibility of Coordinator - Sponsored Research in the Centre for Research and Development, as well as the position of Assistant Professor in the Department of Electrical and Electronics Engineering at KPR Institute of Engineering and Technology, Coimbatore, India. He is also Visiting Researcher at University of Hradec Králové, Czech Republic.
 
@@ -23,7 +21,7 @@ He is a certified translator for online courses organized by NPTEL (National Pro
 
 ## Education
 
-- **Ph.D. in Image Processing and Machine Learning**, Kalasalingam Academy of Research and Education (THE World University Ranking [2023] 601-800, NIRF - 29), 2022
+- **Ph.D. in Electronics and Communication Engineering** (Specialization: Image Processing and Machine Learning), Kalasalingam Academy of Research and Education (THE World University Ranking [2023] 601-800, NIRF - 29), 2022
 - **M.E. in Power Electronics and Drives**, Sri Sivasubramaniya Nadar College of Engineering ([2023] NIRF – 29) (Anna University, Chennai), 2011
 - **B.E. in Electronics and Communication Engineering**, Arulmigu Kalasalingam College of Engineering (now Kalasalingam Academy of Research and Education) (Anna University, Chennai), 2009
 - **School Topper and Rank Holder**, 10th and 12th through State Board, passed out in 2003 and 2005, respectively
