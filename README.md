@@ -368,52 +368,7 @@ He is a **certified translator** for online courses organized by NPTEL (National
 - **Class Coordinator (12 years)**
 - **Faculty Advisor (12 years)**
 
-### References
 
-1. **Dr. N. Rajini**
-   - Professor & Director – Academics
-   - Kalasalingam Academy of Research and Education
-   - E-Mail: rajiniklu@gmail.com
-   - Mobile: +91-9942139392
-
-2. **Dr. M. Pallikonda Rajasekaran**
-   - Professor & Director – Research & Development
-   - Kalasalingam Academy of Research and Education
-   - E-Mail: mpraja80@gmail.com
-   - Mobile: +91-9443065795
-
-3. **Dr. P. Sivakumar**
-   - Professor & Dean – School of Electronics, Electrical and Biomedical Technology
-   - Kalasalingam Academy of Research and Education
-   - E-Mail: sivapothi@gmail.com
-   - Mobile: +91-8667632023
-
-4. **Dr. Kyung-Tae Kim**
-   - Professor – Electronics and Communication Engineering
-   - Kalasalingam Academy of Research and Education
-   - E-Mail: ktkim.prof@gmail.com
-   - Mobile: +91-9524207071
-
-5. **Dr. Kanda Wongwailikhit**
-   - Associate Professor, Chemistry Department
-   - Rangsit University, Thailand
-   - Email: kanda.w@rsu.ac.th
-
-6. **Dr. Reza Langari**
-   - Professor, Mechanical Engineering
-   - Regents Professor, Affiliated Faculty, Aerospace Engineering
-   - Affiliated Faculty, Electrical & Computer Engineering
-   - Affiliated Faculty, Engineering Technology & Industrial Distribution
-   - Texas A&M University College of Engineering, 3127 TAMU, College Station, TX 77843-3127, United States
-   - Phone: 979-845-6918
-   - Email: rlangari@tamu.edu
-
-
-## Other details
-
-- **Language Proficiency**: English, Tamil 
-- **Date of Birth**: 02nd June, 1988 (36 years)
-- **Marital Status**: Married
 
 For Certification Category, Proof available at [LinkedIn](https://www.linkedin.com/in/naveen-p-31b330204/)
 
