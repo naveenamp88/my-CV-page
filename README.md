@@ -9,21 +9,21 @@ Email: naveenamp88@gmail.com
 
 Palanichamy Naveen received a B.E. in Electronics and Communication Engineering from Arulmigu Kalasalingam College of Engineering, [now Kalasalingam Academy of Research and Education] (Anna University, Chennai) in 2009. He obtained an M.E. in Power Electronics and Drives from Sri Sivasubramaniya Nadar College of Engineering ([2023] NIRF – 29) (Anna University, Chennai) in 2011. In 2022, he completed his Ph.D. in the field of Image Processing and Machine Learning from Kalasalingam Academy of Research and Education (THE World University Ranking [2023] 601-800, NIRF - 29). 
 
-School Topper and Rank Holder in 10th and 12th through State Board, passed out in 2003 and 2005, respectively. He has about 13 years of teaching experience at various levels and is currently holding the responsibility of Coordinator - Sponsored Research in the Centre for Research and Development, as well as the position of Assistant Professor in the Department of Electrical and Electronics Engineering at KPR Institute of Engineering and Technology, Coimbatore, India. He is also Visiting Researcher at University of Hradec Králové, Czech Republic.
+**School Topper and Rank Holder** in 10th and 12th through State Board, passed out in 2003 and 2005, respectively. He has about 13 years of teaching experience at various levels and is currently holding the responsibility of Coordinator - Sponsored Research in the Centre for Research and Development, as well as the position of Assistant Professor in the Department of Electrical and Electronics Engineering at KPR Institute of Engineering and Technology, Coimbatore, India. He is also **Visiting Researcher at University of Hradec Králové, Czech Republic**.
 
-Prior to joining KPR Institute of Engineering and Technology, he was associated as NIRF Co-ordinator at Sri Eshwar College of Engineering for 2 years and also served as Assistant Director - Accreditation and Ranking at Kalasalingam Academy of Research and Education. His research interests include Image Processing and Machine Learning. He received the best faculty award from Kalasalingam Academy of Research and Education in the year 2019. He published an authored book titled "Understanding the Metaverse and its Technological Marvels: Beyond Reality". 
+Prior to joining KPR Institute of Engineering and Technology, he was associated as NIRF Co-ordinator at Sri Eshwar College of Engineering for 2 years and also served as **Assistant Director - Accreditation and Ranking** at Kalasalingam Academy of Research and Education. His research interests include Image Processing and Machine Learning. He received the best faculty award from Kalasalingam Academy of Research and Education in the year 2019. He published an authored book titled "Understanding the Metaverse and its Technological Marvels: Beyond Reality". 
 
-He has published around 25 papers in International Journals and International Conferences. He also published 4 patents. He is presently an Associate Editor in the Journal of Intelligent and Fuzzy Systems and AD ALTA-Journal of Interdisciplinary Research. He currently serves as an Editorial Board member for the International Journal of Interactive Multimedia and Artificial Intelligence, ADCAIJ: Advances in Distributed Computing and Artificial Intelligence Journal, International Research Journal of Multidisciplinary Technovation (IRJMT), and Journal of Current Science and Technology. 
+He has published around 25 papers in International Journals and International Conferences. He also published 4 patents. He is presently an **Associate Editor** in the Journal of Intelligent and Fuzzy Systems and AD ALTA-Journal of Interdisciplinary Research. He currently serves as an **Editorial Board member** for the International Journal of Interactive Multimedia and Artificial Intelligence, ADCAIJ: Advances in Distributed Computing and Artificial Intelligence Journal, International Research Journal of Multidisciplinary Technovation (IRJMT), and Journal of Current Science and Technology. 
 
 He has also been serving as a review board member for peer-reviewed journals. In addition to his regular academic activities, he has played a vital role in various Accreditation processes (ABET, NBA, NAAC, UGC, AICTE), Ranking activities (NIRF, THE World University Rankings), Placement Activities (Placement Coordinator), examination cell duties (Valuation Centre in-charge), and Institution admission procedures (Overall Admission Coordinator). He has reviewed 250+ articles for reputable journals and conferences. Additionally, he has completed more than 21 Professional Certifications from various platforms such as NPTEL, Coursera, HP, and IEEE. 
 
-He is a certified translator for online courses organized by NPTEL (National Programme on Technology Enhanced Learning), a joint venture of the IITs and IISc.
+He is a **certified translator** for online courses organized by NPTEL (National Programme on Technology Enhanced Learning), a joint venture of the IITs and IISc.
 
 ## Education
 
-- **Ph.D. in Electronics and Communication Engineering** (Specialization: Image Processing and Machine Learning), Kalasalingam Academy of Research and Education (THE World University Ranking [2023] 601-800, NIRF - 29), 2022
-- **M.E. in Power Electronics and Drives**, Sri Sivasubramaniya Nadar College of Engineering ([2023] NIRF – 29) (Anna University, Chennai), 2011
-- **B.E. in Electronics and Communication Engineering**, Arulmigu Kalasalingam College of Engineering (now Kalasalingam Academy of Research and Education) (Anna University, Chennai), 2009
+- **Ph.D. in Electronics and Communication Engineering** (Specialization: Image Processing and Machine Learning), Kalasalingam Academy of Research and Education (THE World University Ranking [2023] 601-800, NIRF - 29), **2022**
+- **M.E. in Power Electronics and Drives**, Sri Sivasubramaniya Nadar College of Engineering ([2023] NIRF – 29) (Anna University, Chennai), **2011**
+- **B.E. in Electronics and Communication Engineering**, Arulmigu Kalasalingam College of Engineering (now Kalasalingam Academy of Research and Education) (Anna University, Chennai), **2009**
 - **School Topper and Rank Holder**, 10th and 12th through State Board, passed out in 2003 and 2005, respectively
 
 ## Professional Experience
@@ -103,7 +103,7 @@ He is a certified translator for online courses organized by NPTEL (National Pro
 50. P. Naveen, P. Sivakumar. "Multitask CNN for Recognition of Tigers through their Stripes." *Kalasalingam Global Conference KGC-2019*, held on 18-20 December 2019 at Kalasalingam Academy of Research and Education, Krishnankoil.
 51. Naveen P., Aishwarya Selvaraj, Shivani Kumaresan, Indira Nachiyar. *Kalasalingam Global Conference KGC-2019*, held on 18-20 December 2019 at Kalasalingam Academy of Research and Education, Krishnankoil.
 
-# DataSets
+### DataSets
 
 1. T, Rajasekaran; Naveen, P.; R, Devi Priya; Vadivel, Balasubramaniam; Ravi, Vinayakumar (2024), "K-Kotagiri Tea Leaf Dataset", *Mendeley Data*, V1. [DOI: 10.17632/68yy284sh9.1](https://doi.org/10.17632/68yy284sh9.1)
 2. T, Rajasekaran; Naveen, P.; Vadivel, Balasubramaniam (2024), "K-Kotagiri (NRB) Avocado Leaf DataSet", *Mendeley Data*, V1. [DOI: 10.17632/6zy6wxhf2v.1](https://doi.org/10.17632/6zy6wxhf2v.1)
