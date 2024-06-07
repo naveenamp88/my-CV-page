@@ -170,46 +170,6 @@ Email: naveenamp88@gmail.com
 - **Research Gate**: [https://www.researchgate.net/profile/Naveen-P](https://www.researchgate.net/profile/Naveen-P)
 - **LinkedIn**: [https://www.linkedin.com/in/naveen-p-31b330204/](https://www.linkedin.com/in/naveen-p-31b330204/)
 
-## References
-
-1. **Dr. N. Rajini**
-   - Professor & Director – Academics
-   - Kalasalingam Academy of Research and Education
-   - E-Mail: rajiniklu@gmail.com
-   - Mobile: +91-9942139392
-
-2. **Dr. M. Pallikonda Rajasekaran**
-   - Professor & Director – Research & Development
-   - Kalasalingam Academy of Research and Education
-   - E-Mail: mpraja80@gmail.com
-   - Mobile: +91-9443065795
-
-3. **Dr. P. Sivakumar**
-   - Professor & Dean – School of Electronics, Electrical and Biomedical Technology
-   - Kalasalingam Academy of Research and Education
-   - E-Mail: sivapothi@gmail.com
-   - Mobile: +91-8667632023
-
-4. **Dr. Kyung-Tae Kim**
-   - Professor – Electronics and Communication Engineering
-   - Kalasalingam Academy of Research and Education
-   - E-Mail: ktkim.prof@gmail.com
-   - Mobile: +91-9524207071
-
-5. **Dr. Kanda Wongwailikhit**
-   - Associate Professor, Chemistry Department
-   - Rangsit University, Thailand
-   - Email: kanda.w@rsu.ac.th
-
-6. **Dr. Reza Langari**
-   - Professor, Mechanical Engineering
-   - Regents Professor, Affiliated Faculty, Aerospace Engineering
-   - Affiliated Faculty, Electrical & Computer Engineering
-   - Affiliated Faculty, Engineering Technology & Industrial Distribution
-   - Texas A&M University College of Engineering, 3127 TAMU, College Station, TX 77843-3127, United States
-   - Phone: 979-845-6918
-   - Email: rlangari@tamu.edu
-
 ## Other Details
 
 - **Language Proficiency**: English, Tamil
@@ -217,27 +177,6 @@ Email: naveenamp88@gmail.com
 - **Marital Status**: Married
 
 For Certification Category, Proof available at [LinkedIn](https://www.linkedin.com/in/naveen-p-31b330204/)
-
-### Academic Summary
-
-| Category                            | Count |
-|-------------------------------------|-------|
-| Professional Certification          | 21    |
-| Articles published in Journals      | 21    |
-| Articles indexed in WoS             | 17    |
-| Articles indexed in Scopus          | 34    |
-| Patents Published (INDIA)           | 04    |
-| Books Authored                      | 01    |
-| Associate Editor                    | 02    |
-| Translator for IIT online courses   | 04    |
-| Editorial Board Member              | 04    |
-| Events Organized                    | 07    |
-| Articles Reviewed (Ref.: WoS)       | 71    |
-| Faculty Development Program Attended| 17    |
-| Papers Presented in Conferences     | 24    |
-| Students Supervised                 | 16    |
-| Administrative Roles                | 20    |
-| Workshop and Seminar Attended       | 25    |
 
 ### Events Organized
 
@@ -309,16 +248,16 @@ For Certification Category, Proof available at [LinkedIn](https://www.linkedin.c
   | Year | NIRF Ranking - Engineering | NIRF Ranking - University | Institution |
   |------|----------------------------|---------------------------|-------------|
   | 2021 | 56                         | 50                        | Kalasalingam Academy of Research and Education, Krishnankoil |
-  | 2020 | 60                         | 72                        |             |
-  | 2019 | 61                         | NA                        |             |
+  | 2020 | 60                         | 72                        | Kalasalingam Academy of Research and Education, Krishnankoil |
+  | 2019 | 61                         | NA                        | Kalasalingam Academy of Research and Education, Krishnankoil |
 
 - **NIRF Coordinator**
 
   | Year | NIRF Ranking - Cumulative Points | Institution |
   |------|----------------------------------|-------------|
   | 2023 | 29.97                            | Sri Eshwar College of Engineering, Coimbatore |
-  | 2022 | 28.02                            |             |
-  | 2021 | 27.12                            |             |
+  | 2022 | 28.02                            | Sri Eshwar College of Engineering, Coimbatore |
+  | 2021 | 27.12                            | Sri Eshwar College of Engineering, Coimbatore |
 
 - **Placement Coordinator**
 
@@ -335,46 +274,6 @@ For Certification Category, Proof available at [LinkedIn](https://www.linkedin.c
   | 2018-19       | 1748                     | 1748                    |
   | 2017-18       | 1835                     | 1835                    |
   | 2016-17       | 1550                     | 1550                    |
-
-### Events Organized
-
-- **IEEE 2025 International Conference on Cognitive Robotics and Intelligent Systems**, Coimbatore, India
-- **IEEE 2024 International Conference on Cognitive Robotics and Intelligent Systems**, Coimbatore, India
-- **Webinar on Innovations in the Automobile Industry using IoT Technology**, Sri Eshwar College of Engineering, Sep 2021
-- **Webinar on Challenges on Agile methodology in Embedded system projects**, Kalasalingam Academy of Research and Education, June 2020
-- **Workshop in VLSI Design using Verilog HDL**, MAVEN Silicon, Kalasalingam Academy of Research and Education, Feb 2019
-- **National Level Technical Seminar on Network Security**, Feb 2018
-- **One Credit Course on Internet of Things using Arduino**, Kalasalingam University, Feb 2017
-- **Intra Departmental Symposium**, Feb 2017
-- **One Credit Course on System Verilog**, Kalasalingam University, Oct 2016
-
-### Events Attended
-
-- **Short Term Course and Faculty Development Program on “Applications of Machine Learning Techniques in Sustainable Technologies (AMLST-2024)”**, NIT Rourkela, Jan 2024
-- **Webinar on “Reviewer Roulette: Understanding reviewer behaviors and motivations to improve our responses”**, LetPub Learning Nexus, Aug 2023
-- **Short Term Course on “Security in Artificial Intelligence: Strategies and Best Practices”**, Dr. B R Ambedkar NIT, June 2023
-- **Faculty Development Program on “Recent Advancements and Applications of Data Science”**, Paavai Engineering College, June 2022
-- **Faculty Development Program on “Recent Trends on Healthcare Applications using Machine Learning”**, Kings Engineering College, June 2022
-- **Extramural Lecture Series NT-004 “Research Aspects and Role of Engineers in Ocean Data Collection”**, Ramco Institute of Technology, Dec 2021
-- **Online workshop on Analog and Digital System Design using Cadence Tool**, Sri Eshwar College of Engineering, Oct 2021
-- **Workshop titled “Artificial Intelligent Techniques to Address Societal Challenges”**, IEEE India Council, Oct 2021
-- **Faculty Development Program on Introduction to Machine Learning**, NPTEL-AICTE, Nov 2021
-- **Faculty Development Program on "Societal Applications of AI, Blockchain, and IoT”**, Shri Vishnu Engineering College for Women, Sep 2021
-- **IEEE Electron Devices Society (EDS) Distinguished Lecture (DL) on GaN-on-Si Technology for Power, RF & Specials**, IMS Mikro-Nano Produkte GmbH, July 2021
-- **Short-Term Training Program (STTP) on "Advanced Technology to Bridge the Gap Between Medical Science and Engineering for The Benefit of Mankind”**, JIS College of Engineering, July 2021
-- **Workshop titled “Artificial Intelligent Techniques to Address Societal Challenges”**, IEEE India Council, Oct 2021
-- **Webinar on Electric Vehicle Architecture Design and Analysis of The Event by ASPIRE-ICAT and MathWorks**, Sep 2021
-- **Faculty Development Program on "Societal Applications of AI, Blockchain, and IoT”**, Shri Vishnu Engineering College for Women, Sep 2021
-- **Faculty Development Program on Python for Data Science**, NPTEL-AICTE, Mar 2021
-- **Faculty Development Program on Fundamentals of Artificial Intelligence**, NPTEL-AICTE, Dec 2020
-- **Faculty Development Program (FDP) on "Blockchain Technology”**, SRM Institute of Science and Technology, July 2021
-- **Faculty Development Program on “Artificial Intelligence”**, Canara Engineering College, Dec 2020
-- **Faculty Development Program on “Internet of Things (IoT)”**, IIIT Tiruchirappalli, Nov 2020
-- **Faculty Development Program on RF devices for 5G Communications & Measuring Instruments**, Entuple Technologies, Oct 2020
-- **Webinar on social media, Democracy and Online Hate**, IEEE Hyderabad Section, July 2020
-- **Faculty Development Program on Fundamentals of Image Processing**, RMK College of Engineering and Technology, June 2020
-- **Webinar on Artificial Intelligence and the era of Autonomous Shipping**, St. Joseph Institute of Technology, June 2020
-- **Webinar on Tips for Participating in a Hackathon**, i4C, Pune, June 2020
 
 ### Translator Roles
 
@@ -424,21 +323,7 @@ For Certification Category, Proof available at [LinkedIn](https://www.linkedin.c
    - Phone: 979-845-6918
    - Email: rlangari@tamu.edu
 
-### Other Details
 
-- **Language Proficiency**: English, Tamil
-- **Date of Birth**: 02nd June, 1988 (35 years)
-- **Marital Status**: Married
-
-For Certification Category, Proof available at [LinkedIn](https://www.linkedin.com/in/naveen-p-31b330204/)
-
-### Publications
-
-1. Naveen, P., Hassaballah, M. "Scene text detection using structured information and an end-to-end trainable generative adversarial networks." Pattern Analysis and Applications, Volume 27, no. 33 (2024). [DOI: 10.1007/s10044-024-01259-y]
-2. Naveen, P., Jayaraghavi, R. "Image Steganography Method for Securing Multiple Images Using LSB–GA." Wireless Personal Communication (2024). [DOI: 10.1007/s11277-024-10945-3]
-3. Naveen, P. "Occlusion-aware facial expression recognition: A deep learning approach." Multimedia Tools and Applications (2023). [DOI: 10.1007/s11042-023-17013-1]
-4. Naveen, P., Rajagopal Maheswar, Pavel Trojovský. "GeoNLU: Bridging the gap between natural language and spatial data infrastructures." Alexandria Engineering Journal, Volume 87, 2024. [DOI: 10.1016/j.aej.2023.12.027]
-5. Naveen, P., NithyaSai, S., Udayamoorthy, V., Kumar, S.R. "Fault diagnosis in semiconductor manufacturing processes using a CNN-based generative adversarial network." Journal of Intelligent & Fuzzy Systems, vol. 46, no. 1, pp. 1789-1800, 2024. [DOI: 10.3233/JIFS-231948]
 
 ## Other details
 
@@ -448,54 +333,3 @@ For Certification Category, Proof available at [LinkedIn](https://www.linkedin.c
 
 For Certification Category, Proof available at [LinkedIn](https://www.linkedin.com/in/naveen-p-31b330204/)
 
-### References
-
-1. **Dr. N. Rajini**
-   - Professor & Director – Academics
-   - Kalasalingam Academy of Research and Education
-   - E-Mail: rajiniklu@gmail.com
-   - Mobile: +91-9942139392 
-   - Relation: Colleague. Director – Academics, Head of the Department - Mechanical, Professor.
-   - Known from: 2005
-
-2. **Dr. M. Pallikonda Rajasekaran**
-   - Professor & Director – Research & Development
-   - Kalasalingam Academy of Research and Education
-   - E-Mail: mpraja80@gmail.com
-   - Mobile: +91-9443065795
-   - Relation: Colleague. Director – Controller of Examination, Head of the Department – Instrumentation and Control, Professor.
-   - Known from: 2005
-
-3. **Dr. P. Sivakumar**
-   - Professor & Dean – School of Electronics, Electrical and Biomedical Technology
-   - Kalasalingam Academy of Research and Education
-   - E-Mail: sivapothi@gmail.com 
-   - Mobile: +91-8667632023
-   - Relation: Colleague. Supervisor, Head of the Department – Electronics and Communication, Professor.
-   - Known from: 2005
-
-4. **Dr. Kyung-Tae Kim**
-   - Professor – Electronics and Communication Engineering
-   - Kalasalingam Academy of Research and Education
-   - E-Mail: ktkim.prof@gmail.com 
-   - Mobile: +91-9524207071
-   - Relation: Colleague. Professor.
-   - Known from: 2016
-
-5. **Dr. Kanda Wongwailikhit**
-   - Associate Professor, Chemistry Department
-   - Rangsit University, Thailand.
-   - Email: kanda.w@rsu.ac.th 
-   - Relation: Academics. Editor In Chief – Journal of Current Science and Technology.
-   - Known from: 2023
-
-6. **Dr. Reza Langari**
-   - Professor, Mechanical Engineering
-   - Regents Professor, Affiliated Faculty, Aerospace Engineering
-   - Affiliated Faculty, Electrical & Computer Engineering
-   - Affiliated Faculty, Engineering Technology & Industrial Distribution
-   - Texas A&M University College of Engineering, 3127 TAMU, College Station, TX 77843-3127, United States.
-   - Phone: 979-845-6918
-   - Email: rlangari@tamu.edu
-   - Relation: Academics. Editor In Chief – Journal of Intelligent and Fuzzy Systems.
-   - Known from: 2023
