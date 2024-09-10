@@ -21,7 +21,7 @@ He is a **certified translator** for online courses organized by NPTEL (National
 
 ## Education
 
-- **Ph.D. in Electronics and Communication Engineering** (Specialization: Image Processing and Machine Learning), Kalasalingam Academy of Research and Education (THE World University Ranking [2023] 601-800, NIRF - 29), **2022**
+- **Ph.D. in Electronics and Communication Engineering** (Specialization: Computer Vision and Machine Learning), Kalasalingam Academy of Research and Education (THE World University Ranking [2023] 601-800, NIRF - 29), **2022**
 - **M.E. in Power Electronics and Drives**, Sri Sivasubramaniya Nadar College of Engineering ([2023] NIRF – 29) (Anna University, Chennai), **2011**
 - **B.E. in Electronics and Communication Engineering**, Arulmigu Kalasalingam College of Engineering (now Kalasalingam Academy of Research and Education) (Anna University, Chennai), **2009**
 - **School Topper and Rank Holder**, 10th and 12th through State Board, passed out in 2003 and 2005, respectively
