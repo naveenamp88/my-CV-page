@@ -212,8 +212,6 @@ He is a **certified translator** for online courses organized by NPTEL (National
 
 ### Achievements in Administrative Role
 
-# Achievements in Administrative Role
-
 ## Assistant Director – Accreditation and Ranking
 
 | Year | NIRF Ranking-Engineering | NIRF Ranking-University | Name of the Institution |
