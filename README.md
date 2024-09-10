@@ -376,7 +376,5 @@ He is a **certified translator** for online courses organized by NPTEL (National
 - **Class Coordinator** (12 years)
 - **Faculty Advisor** (12 years)
 
-
-
 For Certification Category, Proof available at [LinkedIn](https://www.linkedin.com/in/naveen-p-31b330204/)
 
