@@ -13,7 +13,7 @@ Palanichamy Naveen received a B.E. in Electronics and Communication Engineering 
 
 Prior to joining KPR Institute of Engineering and Technology, he was associated as NIRF Co-ordinator at Sri Eshwar College of Engineering for 2 years and also served as **Assistant Director - Accreditation and Ranking** at Kalasalingam Academy of Research and Education. His research interests include Image Processing and Machine Learning. He received the best faculty award from Kalasalingam Academy of Research and Education in the year 2019. He published an authored book titled "Understanding the Metaverse and its Technological Marvels: Beyond Reality". 
 
-He has published around 25 papers in International Journals and International Conferences. He also published 4 patents. He is presently an **Associate Editor** in the Journal of Intelligent and Fuzzy Systems and AD ALTA-Journal of Interdisciplinary Research. He currently serves as an **Editorial Board member** for the International Journal of Interactive Multimedia and Artificial Intelligence, ADCAIJ: Advances in Distributed Computing and Artificial Intelligence Journal, International Research Journal of Multidisciplinary Technovation (IRJMT), and Journal of Current Science and Technology. 
+He has published around 25 papers in International Journals and International Conferences. He also published 4 patents. He is presently an **Associate Editor** in the Journal of Intelligent and Fuzzy Systems (2023-2024) and AD ALTA-Journal of Interdisciplinary Research. He currently serves as an **Editorial Board member** for the Nature - Scientific Reports, International Journal of Interactive Multimedia and Artificial Intelligence, ADCAIJ: Advances in Distributed Computing and Artificial Intelligence Journal, International Research Journal of Multidisciplinary Technovation (IRJMT), and Journal of Current Science and Technology. 
 
 He has also been serving as a review board member for peer-reviewed journals. In addition to his regular academic activities, he has played a vital role in various Accreditation processes (ABET, NBA, NAAC, UGC, AICTE), Ranking activities (NIRF, THE World University Rankings), Placement Activities (Placement Coordinator), examination cell duties (Valuation Centre in-charge), and Institution admission procedures (Overall Admission Coordinator). He has reviewed 250+ articles for reputable journals and conferences. Additionally, he has completed more than 21 Professional Certifications from various platforms such as NPTEL, Coursera, HP, and IEEE. 
 
@@ -37,7 +37,7 @@ He is a **certified translator** for online courses organized by NPTEL (National
 
 ## Research Interests
 
-- Image Processing
+- Computer Vision
 - Machine Learning
 
 ## Awards and Recognitions
@@ -212,38 +212,41 @@ He is a **certified translator** for online courses organized by NPTEL (National
 
 ### Achievements in Administrative Role
 
-- **Assistant Director – Accreditation and Ranking**
-  - ABET Accreditation, NBA, NAAC
+# Achievements in Administrative Role
 
-  | Year | NIRF Ranking - Engineering | NIRF Ranking - University | Institution |
-  |------|----------------------------|---------------------------|-------------|
-  | 2021 | 56                         | 50                        | Kalasalingam Academy of Research and Education, Krishnankoil |
-  | 2020 | 60                         | 72                        | Kalasalingam Academy of Research and Education, Krishnankoil |
-  | 2019 | 61                         | NA                        | Kalasalingam Academy of Research and Education, Krishnankoil |
+## Assistant Director – Accreditation and Ranking
 
-- **NIRF Coordinator**
+| Year | NIRF Ranking-Engineering | NIRF Ranking-University | Name of the Institution |
+|------|--------------------------|-------------------------|-------------------------|
+| 2021 | 56                       | 50                      | Kalasalingam Academy of Research and Education, Krishnankoil |
+| 2020 | 60                       | 72                      | Kalasalingam Academy of Research and Education, Krishnankoil |
+| 2019 | 61                       | NA                      | Kalasalingam Academy of Research and Education, Krishnankoil |
 
-  | Year | NIRF Ranking - Cumulative Points | Institution |
-  |------|----------------------------------|-------------|
-  | 2023 | 29.97                            | Sri Eshwar College of Engineering, Coimbatore |
-  | 2022 | 28.02                            | Sri Eshwar College of Engineering, Coimbatore |
-  | 2021 | 27.12                            | Sri Eshwar College of Engineering, Coimbatore |
+## NIRF Coordinator
 
-- **Placement Coordinator**
+| Year | NIRF Ranking-Cumulative Points | Name of the Institution |
+|------|-------------------------------|-------------------------|
+| 2024 | 201-300 (Rank Band)            | Sri Eshwar College of Engineering, Coimbatore |
+| 2023 | 29.97                          | Sri Eshwar College of Engineering, Coimbatore |
+| 2022 | 28.02                          | Sri Eshwar College of Engineering, Coimbatore |
+| 2021 | 27.12                          | Sri Eshwar College of Engineering, Coimbatore |
 
-  | Academic Year | No. of Students Placed | % of Students Placed | Median Salary per annum |
-  |---------------|------------------------|----------------------|-------------------------|
-  | 2015-16       | 171                    | 89.06                | 3,50,000                |
-  | 2014-15       | 157                    | 82.63                | 3,25,000                |
-  | 2013-14       | 97                     | 75.19                | 3,00,000                |
+## Placement Coordinator
 
-- **University Admission - Overall Coordinator**
+| Academic Year | No. of Students Placed | % of Students Placed | Median Salary per annum |
+|---------------|------------------------|----------------------|-------------------------|
+| 2015-16       | 171                    | 89.06%               | ₹3,50,000               |
+| 2014-15       | 157                    | 82.63%               | ₹3,25,000               |
+| 2013-14       | 97                     | 75.19%               | ₹3,00,000               |
 
-  | Academic Year | No. of Sanctioned Intake | No. of Students Admitted |
-  |---------------|--------------------------|-------------------------|
-  | 2018-19       | 1748                     | 1748                    |
-  | 2017-18       | 1835                     | 1835                    |
-  | 2016-17       | 1550                     | 1550                    |
+## University Admission - Overall Coordinator
+
+| Academic Year | No. of Sanctioned Intake | No. of Students Admitted |
+|---------------|--------------------------|--------------------------|
+| 2018-19       | 1748                     | 1748                     |
+| 2017-18       | 1835                     | 1835                     |
+| 2016-17       | 1550                     | 1550                     |
+
 
 ## Academic Summary
 
