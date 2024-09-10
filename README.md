@@ -50,15 +50,15 @@ He is a **certified translator** for online courses organized by NPTEL (National
 - Naveen, P. "Understanding the Metaverse and its Technological Marvels: Beyond Reality." Cambridge Scholars Publishing (2024). [Link](https://www.cambridgescholars.com/product/978-1-5275-6577-7)
 
 ### Preprint
-- Naveen, Palanichamy (2023). How to Get your Institution into the Top 200 in NIRF Ranking?. TechRxiv. Preprint. [DOI: 10.36227/techrxiv.23443112.v1] (https://doi.org/10.36227/techrxiv.23443112.v1)
+- Naveen, Palanichamy (2023). How to Get your Institution into the Top 200 in NIRF Ranking?. TechRxiv. Preprint. [DOI: 10.36227/techrxiv.23443112.v1](https://doi.org/10.36227/techrxiv.23443112.v1)
 
 ### Journals and Conferences
 
 - Naveen, P., Hassaballah, M. "Scene text detection using structured information and an end-to-end trainable generative adversarial networks." *Pattern Analysis and Applications*, Volume 27, no. 33 (2024). [DOI: 10.1007/s10044-024-01259-y](https://doi.org/10.1007/s10044-024-01259-y) [Science Citation Index Expanded, Impact factor: 3.9 (2022)]
 - Naveen, P., Jayaraghavi, R. "Image Steganography Method for Securing Multiple Images Using LSB–GA." *Wireless Personal Communication* (2024). [DOI: 10.1007/s11277-024-10945-3](https://doi.org/10.1007/s11277-024-10945-3) [Science Citation Index Expanded, Impact factor: 2.2 (2022)]
--	Naveen, P. Advancements in underwater imaging through machine learning: Techniques, challenges, and applications. (2024). [DOI: 10.1007/s11042-024-20091-4] (https://doi.org/10.1007/s11042-024-20091-4)  [Science Citation Index Expanded, Impact factor: 3.0 (2023)]
--	Naveen, P. The ethical dilemma of AI in hiring. AI & Soc (2024). [DOI:10.1007/s00146-024-02018-7] (https://doi.org/10.1007/s00146-024-02018-7) [Science Citation Index Expanded, Impact factor: 2.9 (2023)]
--	Naveen, P. The rise of AI in job applications: a generative adversarial tug-of-war. AI & Soc (2024). [DOI:10.1007/s00146-024-02054-3] (https://doi.org/10.1007/s00146-024-02054-3) [Science Citation Index Expanded, Impact factor: 2.9 (2023)]
+-	Naveen, P. Advancements in underwater imaging through machine learning: Techniques, challenges, and applications. (2024). [DOI: 10.1007/s11042-024-20091-4](https://doi.org/10.1007/s11042-024-20091-4)  [Science Citation Index Expanded, Impact factor: 3.0 (2023)]
+-	Naveen, P. The ethical dilemma of AI in hiring. AI & Soc (2024). [DOI:10.1007/s00146-024-02018-7](https://doi.org/10.1007/s00146-024-02018-7) [Science Citation Index Expanded, Impact factor: 2.9 (2023)]
+-	Naveen, P. The rise of AI in job applications: a generative adversarial tug-of-war. AI & Soc (2024). [DOI:10.1007/s00146-024-02054-3](https://doi.org/10.1007/s00146-024-02054-3) [Science Citation Index Expanded, Impact factor: 2.9 (2023)]
 - Naveen, P. "Occlusion-aware facial expression recognition: A deep learning approach." *Multimedia Tools and Applications* (2023). [DOI: 10.1007/s11042-023-17013-1](https://doi.org/10.1007/s11042-023-17013-1) [Science Citation Index Expanded, Impact factor: 3.6 (2022)]
 - Palanichamy Naveen, Rajagopal Maheswar, Pavel Trojovský. "GeoNLU: Bridging the gap between natural language and spatial data infrastructures." *Alexandria Engineering Journal*, Volume 87, 2024, Pages 126-147. ISSN 1110-0168. [DOI: 10.1016/j.aej.2023.12.027](https://doi.org/10.1016/j.aej.2023.12.027) [Science Citation Index Expanded, Impact factor: 6.8 (2022)]
 - Naveen, Palanichamy, NithyaSai, S., Udayamoorthy, Venkateshkumar, Kumar, S.R. (2023). "Fault diagnosis in semiconductor manufacturing processes using a CNN-based generative adversarial network." *Journal of Intelligent & Fuzzy Systems*, vol. 46, no. 1, pp. 1789-1800, 2024. [DOI: 10.3233/JIFS-231948](https://doi.org/10.3233/JIFS-231948) [Science Citation Index Expanded, Impact factor: 2 (2022)]
@@ -111,7 +111,7 @@ He is a **certified translator** for online courses organized by NPTEL (National
 
 ### DataSets
 
-- P, Naveen; T, Rajasekaran (2024), “Underwater Species Dataset (NR) from Video: Seals, Dolphins, Sea Turtles, Octopus, Seahorse, Sharks, Whales”, Mendeley Data, V1, [DOI: 10.17632/4tp83br92z.1] (https://data.mendeley.com/datasets/4tp83br92z/1)
+- P, Naveen; T, Rajasekaran (2024), “Underwater Species Dataset (NR) from Video: Seals, Dolphins, Sea Turtles, Octopus, Seahorse, Sharks, Whales”, Mendeley Data, V1, [DOI: 10.17632/4tp83br92z.1](https://data.mendeley.com/datasets/4tp83br92z/1)
 - T, Rajasekaran; Naveen, P.; R, Devi Priya; Vadivel, Balasubramaniam; Ravi, Vinayakumar (2024), "K-Kotagiri Tea Leaf Dataset", *Mendeley Data*, V1. [DOI: 10.17632/68yy284sh9.1](https://doi.org/10.17632/68yy284sh9.1)
 - T, Rajasekaran; Naveen, P.; Vadivel, Balasubramaniam (2024), "K-Kotagiri (NRB) Avocado Leaf DataSet", *Mendeley Data*, V1. [DOI: 10.17632/6zy6wxhf2v.1](https://doi.org/10.17632/6zy6wxhf2v.1)
 
@@ -124,7 +124,7 @@ He is a **certified translator** for online courses organized by NPTEL (National
 
 ## Editorial Roles
 
-- **Associate Editor**, Journal of Intelligent and Fuzzy Systems
+- **Associate Editor**, Journal of Intelligent and Fuzzy Systems (2023-2024)
 - **Associate Editor**, AD ALTA-Journal of Interdisciplinary Research
 - **Editorial Board Member** for Nature Scientific Reports, International Journal of Interactive Multimedia and Artificial Intelligence, ADCAIJ: Advances in Distributed Computing and Artificial Intelligence Journal, International Research Journal of Multidisciplinary Technovation (IRJMT), and Journal of Current Science and Technology
 
