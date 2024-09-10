@@ -258,14 +258,14 @@ He is a **certified translator** for online courses organized by NPTEL (National
 - **Professional Certification**: 21
 - **Articles published in Journals**: 21
 - **Articles indexed in WoS**: 17
-- **Articles indexed in Scopus**: 34
+- **Articles indexed in Scopus**: 44
 - **Patents Published (INDIA)**: 04
 - **Books Authored**: 01
 - **Associate Editor**: 02
-- **Translator for IIT online courses**: 04
+- **Translator for IIT online courses**: 05
 - **Editorial Board Member**: 04
 - **Events Organized**: 07
-- **Articles Reviewed (Ref.: WoS)**: 71
+- **Articles Reviewed (Ref.: WoS)**: 270
 - **Faculty Development Program Attended**: 17
 - **Papers Presented in Conferences**: 24
 - **Students Supervised**: 16
