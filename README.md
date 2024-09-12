@@ -1,6 +1,6 @@
 # Dr. PALANICHAMY NAVEEN, Ph.D.
 
-PCA 101, First Floor, Prime City, Kumudham Nagar, Cheranma Nagar, Coimbatore – 641 035, Coimbatore, Tamil Nadu, INDIA.  
+PCA 101, First Floor, Prime City, Kumudham Nagar, Cheranma Nagar, Coimbatore – 641 035, Coimbatore, Tamil Nadu, India.  
 Mobile: +91-86674 05042  
 Email: naveenamp88@gmail.com  
 
@@ -271,15 +271,6 @@ He is a **certified translator** for online courses organized by NPTEL (National
 - **Students Supervised**: 16
 - **Administrative Roles**: 20
 - **Workshop and Seminar Attended**: 25
-
-## Professional Links
-
-- **Orcid**: [https://orcid.org/0000-0002-5202-2557](https://orcid.org/0000-0002-5202-2557)
-- **WoS Researcher ID**: [https://www.webofscience.com/wos/author/record/ABF-6323-2020](https://www.webofscience.com/wos/author/record/ABF-6323-2020)
-- **Scopus**: [https://www.scopus.com/authid/detail.uri?authorId=57225850005](https://www.scopus.com/authid/detail.uri?authorId=57225850005)
-- **Google Scholar**: [https://scholar.google.com/citations?user=5NzwtqQAAAAJ&hl=en](https://scholar.google.com/citations?user=5NzwtqQAAAAJ&hl=en)
-- **Research Gate**: [https://www.researchgate.net/profile/Naveen-P](https://www.researchgate.net/profile/Naveen-P)
-- **LinkedIn**: [https://www.linkedin.com/in/naveen-p-31b330204/](https://www.linkedin.com/in/naveen-p-31b330204/)
 
 ## Events Organized
 
