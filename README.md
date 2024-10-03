@@ -126,7 +126,7 @@ He is a **certified translator** for online courses organized by NPTEL (National
 
 - **Associate Editor**, AD ALTA-Journal of Interdisciplinary Research [**ESCI - Q4**]
 - **Associate Editor**, Journal of Intelligent and Fuzzy Systems (2023-2024) [**SCI - Q4**]
-- **Editorial Board Member** for **Nature Scientific Reports** [**SCI - Q1**], Computer Methods and Programs in Biomedicine [**SCI - Q1**],  International Journal of Interactive Multimedia and Artificial Intelligence [**SCI-Q2**], ADCAIJ: Advances in Distributed Computing and Artificial Intelligence Journal [**ESCI - Q4**], International Research Journal of Multidisciplinary Technovation (IRJMT) [**ESCI - Q4**], Discover Imaging and Journal of Current Science and Technology (**Scopus**).
+- **Editorial Board Member** for **Nature Scientific Reports** [**SCI - Q1**], International Journal of Interactive Multimedia and Artificial Intelligence [**SCI-Q2**], ADCAIJ: Advances in Distributed Computing and Artificial Intelligence Journal [**ESCI - Q4**], International Research Journal of Multidisciplinary Technovation (IRJMT) [**ESCI - Q4**], Computer Methods and Programs in Biomedicine-Update (**Scopus**) [**SCI - Q1**], Discover Imaging and Journal of Current Science and Technology (**Scopus**).
 
 ## Reviewer Roles
 
