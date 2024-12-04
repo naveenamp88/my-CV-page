@@ -28,7 +28,8 @@ He is a **certified translator** for online courses organized by NPTEL (National
 
 ## Professional Experience
 
-- **Assistant Professor, Coordinator – Sponsored Research**, KPR Institute of Engineering and Technology, Coimbatore, India (May 2023 – Till date)
+- **Associate Professor, NIRF Coordinator**, Dr.N.G.P. Institute of Technology, Coimbatore, India (Dec 2024 – Till date)
+- **Assistant Professor, Coordinator – Sponsored Research**, KPR Institute of Engineering and Technology, Coimbatore, India (May 2023 – Nov 2024)
 - **Visiting Researcher**, University of Hradec Králové, Czech Republic (Sep 2023 – Till date)
 - **Assistant Professor, NIRF Coordinator**, Sri Eshwar College of Engineering, Coimbatore (May 2021 – May 2023)
 - **Assistant Director – Accreditation and Ranking, Assistant Professor**, Kalasalingam Academy of Research and Education (May 2016 – May 2021)
