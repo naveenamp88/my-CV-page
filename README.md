@@ -49,6 +49,7 @@ He is a **certified translator** for online courses organized by NPTEL (National
 
 ### Authored Book
 - **Naveen, P.** "Understanding the Metaverse and its Technological Marvels: Beyond Reality." Cambridge Scholars Publishing (2024). [Link](https://www.cambridgescholars.com/product/978-1-5275-6577-7)
+- **Palanichamy Naveen**, R. Maheswar and U.S. Ragupathy. Digital Twins and Cybersecurity: Safeguarding the Future of Connected Systems, © 2025 Scrivener Publishing LLC (2024). [Link](https://scrivenerpublishing.com/cart/title.php?id=1059)
 
 ### Preprint
 - **Naveen, Palanichamy** (2023). How to Get your Institution into the Top 200 in NIRF Ranking?. TechRxiv. Preprint. [DOI: 10.36227/techrxiv.23443112.v1](https://doi.org/10.36227/techrxiv.23443112.v1)
