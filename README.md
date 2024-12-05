@@ -47,7 +47,7 @@ He is a **certified translator** for online courses organized by NPTEL (National
 
 ## Publications
 
-### Authored Book
+### Authored Books
 - **Naveen, P.** "Understanding the Metaverse and its Technological Marvels: Beyond Reality." Cambridge Scholars Publishing (2024). [Link](https://www.cambridgescholars.com/product/978-1-5275-6577-7)
 - **Palanichamy Naveen**, R. Maheswar and U.S. Ragupathy. Digital Twins and Cybersecurity: Safeguarding the Future of Connected Systems, © 2025 Scrivener Publishing LLC (2024). [Link](https://scrivenerpublishing.com/cart/title.php?id=1059)
 
@@ -130,7 +130,7 @@ He is a **certified translator** for online courses organized by NPTEL (National
 
 - **Associate Editor**, AD ALTA-Journal of Interdisciplinary Research [**ESCI - Q4**]
 - **Associate Editor**, Journal of Intelligent and Fuzzy Systems (2023-2024) [**SCI - Q4**]
-- **Editorial Board Member** for **Nature Scientific Reports** [**SCI - Q1**], International Journal of Interactive Multimedia and Artificial Intelligence [**SCI-Q2**], ADCAIJ: Advances in Distributed Computing and Artificial Intelligence Journal [**ESCI - Q4**], International Research Journal of Multidisciplinary Technovation (IRJMT) [**ESCI - Q4**], Computer Methods and Programs in Biomedicine-Update (**Scopus**), Discover Imaging and Journal of Current Science and Technology (**Scopus**).
+- **Editorial Board Member** for **Nature Scientific Reports** [**SCI - Q1**], International Journal of Interactive Multimedia and Artificial Intelligence [**SCI-Q2**], ADCAIJ: Advances in Distributed Computing and Artificial Intelligence Journal [**ESCI - Q4**], International Research Journal of Multidisciplinary Technovation (IRJMT) [**ESCI - Q4**], Discover Imaging and Journal of Current Science and Technology (**Scopus**).
 
 ## Reviewer Roles
 
