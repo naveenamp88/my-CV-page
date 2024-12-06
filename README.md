@@ -164,6 +164,12 @@ He is a **certified translator** for online courses organized by NPTEL (National
 - Translator for the Course **Basic Electric Circuits (108104139)** offered by IIT Kanpur in Tamil Language for 5.5 hours during Jan-June 2021.
 - Translator for the Course **Electrical Measurement and Electronic Instruments (108105153)** offered by IIT Kharagpur in Tamil Language for 56 hours during July-Nov 2020.
 
+# Committee Member
+- Member of **Technical Program Committee** for the International Conference on Pervasive Computational Technologies (ICPCT-2025), organised by Department of Applied Computational Science & Engineering, GL Bajaj Institute of Technology and Management, Greater Noida, India.
+- **Publication Chair** for 2025 Second International Conference on Cognitive Robotics and Intelligent Systems (ICC - ROBINS 2025), organised by KPR Institute of Engineering and Technology, Coimbatore, India.
+- **Editorial Board Member** of the 9th RSU International Research Conference (RSUCON-2024), organised by Rangsit University, **THAILAND**.
+- **Conference Secretariat** for 2024 First International Conference on Cognitive Robotics and Intelligent Systems (ICC - ROBINS 2024), organised by KPR Institute of Engineering and Technology, Coimbatore, India.
+
 
 ## Skills
 
