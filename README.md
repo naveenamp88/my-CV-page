@@ -156,7 +156,7 @@ He is a **certified translator** for online courses organized by NPTEL (National
 - Successfully completed IEEE Continuing Education Online Course on Human Emotion in Devices and Technology on 22 May 2020.
 - Successfully completed IEEE Continuing Education Online Course on Understanding Blockchain Technology: The Costs and Benefits of Decentralization on 19 May 2020.
 
-# Others
+## Others
 
 - Translator for the Course **Computer architecture and organization (106105163)** offered by IIT Kharagpur in Tamil Language for 10 hours during Oct-Dec 2023.
 - Translator for the Course **Nonlinear and Adaptive Control (108102113)** offered by IIT Delhi in Tamil Language for 5 hours during Feb-Mar 2022.
@@ -164,7 +164,7 @@ He is a **certified translator** for online courses organized by NPTEL (National
 - Translator for the Course **Basic Electric Circuits (108104139)** offered by IIT Kanpur in Tamil Language for 5.5 hours during Jan-June 2021.
 - Translator for the Course **Electrical Measurement and Electronic Instruments (108105153)** offered by IIT Kharagpur in Tamil Language for 56 hours during July-Nov 2020.
 
-# Committee Member
+## Committee Member
 - Member of **Technical Program Committee** for the International Conference on Pervasive Computational Technologies (ICPCT-2025), organised by Department of Applied Computational Science & Engineering, GL Bajaj Institute of Technology and Management, Greater Noida, India.
 - **Publication Chair** for 2025 Second International Conference on Cognitive Robotics and Intelligent Systems (ICC - ROBINS 2025), organised by KPR Institute of Engineering and Technology, Coimbatore, India.
 - **Editorial Board Member** of the 9th RSU International Research Conference (RSUCON-2024), organised by Rangsit University, **THAILAND**.
