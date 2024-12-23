@@ -1,6 +1,6 @@
 # Dr. PALANICHAMY NAVEEN, Ph.D.
 
-PCA 101, First Floor, Prime City, Kumudham Nagar, Cheranma Nagar, Coimbatore – 641 035, Coimbatore, Tamil Nadu, India.  
+Associate Professor, Department of Electronics and Communication Engineering, Coimbatore – 641 048, Coimbatore, Tamil Nadu, India.  
 Mobile: +91-86674 05042  
 Email: naveenamp88@gmail.com  
 
@@ -49,7 +49,7 @@ He is a **certified translator** for online courses organized by NPTEL (National
 
 ### Authored Books
 - **Naveen, P.** "Understanding the Metaverse and its Technological Marvels: Beyond Reality." Cambridge Scholars Publishing (2024). [Link](https://www.cambridgescholars.com/product/978-1-5275-6577-7)
-- **Palanichamy Naveen**, R. Maheswar and U.S. Ragupathy. Digital Twins and Cybersecurity: Safeguarding the Future of Connected Systems, © 2025 Scrivener Publishing LLC (2024). [Link](https://scrivenerpublishing.com/cart/title.php?id=1059)
+- **Palanichamy Naveen**, R. Maheswar and U.S. Ragupathy. Digital Twins and Cybersecurity: Safeguarding the Future of Connected Systems, © 2025 Scrivener Publishing LLC (2024). [Link](https://onlinelibrary.wiley.com/doi/book/10.1002/9781394272501)
 
 ### Preprint
 - **Naveen, Palanichamy** (2023). How to Get your Institution into the Top 200 in NIRF Ranking?. TechRxiv. Preprint. [DOI: 10.36227/techrxiv.23443112.v1](https://doi.org/10.36227/techrxiv.23443112.v1)
