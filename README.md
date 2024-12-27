@@ -276,7 +276,7 @@ He is a **certified translator** for online courses organized by NPTEL (National
 - **Translator for IIT online courses**: 05
 - **Editorial Board Member**: 04
 - **Events Organized**: 07
-- **Articles Reviewed (Ref.: WoS)**: 270
+- **Articles Reviewed (Ref.: WoS)**: 300+
 - **Faculty Development Program Attended**: 17
 - **Papers Presented in Conferences**: 24
 - **Students Supervised**: 16
