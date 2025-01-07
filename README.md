@@ -2,7 +2,7 @@
 
 Associate Professor, Department of Electronics and Communication Engineering, Coimbatore – 641 048, Tamil Nadu, India.  
 Mobile: +91-86674 05042  
-Email: naveenamp88@gmail.com  
+Email: naveenamp88@gmail.com; naveen.p@drngpit.ac.in  
 
 ---
 # About Palanichamy Naveen
@@ -13,7 +13,7 @@ Palanichamy Naveen received a B.E. in **Electronics and Communication Engineerin
 
 Prior to joining Dr.N.G.P. Institute of Technology, he was associated as Coordinator - Sponsored Research in the Centre for Research and Development at KPR Institute of Engineering and Technology, Coimbatore, India. He is also Visiting Researcher at University of Hradec Králové, Czech Republic. He was associated as **NIRF Co-ordinator** at Sri Eshwar College of Engineering for 2 years (2021-2023) and also served as **Assistant Director - Accreditation and Ranking** at Kalasalingam Academy of Research and Education. His research interests include Computer Vision and Machine Learning. He received the best faculty award from Kalasalingam Academy of Research and Education in the year 2019. He published an authored book titled "Understanding the Metaverse and its Technological Marvels: Beyond Reality". 
 
-He has published around 25 papers in International Journals and International Conferences. He also published 4 patents. He is presently an **Associate Editor** in the Journal of Intelligent and Fuzzy Systems (2023-2024) (Q4) and AD ALTA-Journal of Interdisciplinary Research (Q4). He currently serves as an **Editorial Board member** for the Nature - Scientific Reports (Q1), International Journal of Interactive Multimedia and Artificial Intelligence (Q2), ADCAIJ: Advances in Distributed Computing and Artificial Intelligence Journal (Q4), International Research Journal of Multidisciplinary Technovation (IRJMT) (Q4), Computer Methods and Programs in Biomedicine Update (Scopus), and Journal of Current Science and Technology (Scopus). 
+He has published around 25 papers in International Journals and International Conferences. He also published 4 patents. He is an **Associate Editor** in the PLOS One (Q1), AD ALTA-Journal of Interdisciplinary Research (Q4) and Journal of Intelligent and Fuzzy Systems (2023-2024) (Q4). He currently serves as an **Editorial Board member** for the **Nature** - Scientific Reports (Q1), International Journal of Interactive Multimedia and Artificial Intelligence (Q2), ADCAIJ: Advances in Distributed Computing and Artificial Intelligence Journal (Q4), International Research Journal of Multidisciplinary Technovation (IRJMT) (Q4), Computer Methods and Programs in Biomedicine Update (Scopus), and Journal of Current Science and Technology (Scopus). 
 
 He has also been serving as a review board member for peer-reviewed journals. In addition to his regular academic activities, he has played a vital role in various Accreditation processes (ABET, NBA, NAAC, UGC, AICTE), Ranking activities (NIRF, THE World University Rankings), Placement Activities (Placement Coordinator), examination cell duties (Valuation Centre in-charge), and Institution admission procedures (Overall Admission Coordinator). He has reviewed 250+ articles for reputable journals and conferences. Additionally, he has completed more than 21 Professional Certifications from various platforms such as NPTEL, Coursera, HP, and IEEE. 
 
@@ -129,13 +129,14 @@ He is a **certified translator** for online courses organized by NPTEL (National
 
 ## Editorial Roles
 
+- **Associate Editor**, PLOS One [**ESCI - Q1**]
 - **Associate Editor**, AD ALTA-Journal of Interdisciplinary Research [**ESCI - Q4**]
 - **Associate Editor**, Journal of Intelligent and Fuzzy Systems (2023-2024) [**SCI - Q4**]
 - **Editorial Board Member** for **Nature Scientific Reports** [**SCI - Q1**], International Journal of Interactive Multimedia and Artificial Intelligence [**SCI-Q2**], ADCAIJ: Advances in Distributed Computing and Artificial Intelligence Journal [**ESCI - Q4**], International Research Journal of Multidisciplinary Technovation (IRJMT) [**ESCI - Q4**], Discover Imaging and Journal of Current Science and Technology (**Scopus**).
 
 ## Reviewer Roles
 
-- Reviewed 250+ articles for reputable journals and conferences
+- Reviewed 300+ articles for reputable journals and conferences
 
 ## Professional Certifications
 - Successfully Completed Skill Assessment on VLSI, VHDL & PCB Design from Hewlett Packard Enterprise in November 2018. (Credential ID and URL: HPE/CoC/ET/1811-04023, [https://hpepro.com/everify](https://hpepro.com/everify))
@@ -269,10 +270,10 @@ He is a **certified translator** for online courses organized by NPTEL (National
 - **Professional Certification**: 21
 - **Articles published in Journals**: 21
 - **Articles indexed in WoS**: 17
-- **Articles indexed in Scopus**: 44
+- **Articles indexed in Scopus**: 47
 - **Patents Published (INDIA)**: 04
-- **Books Authored**: 01
-- **Associate Editor**: 02
+- **Books Authored**: 02
+- **Associate Editor**: 03
 - **Translator for IIT online courses**: 05
 - **Editorial Board Member**: 04
 - **Events Organized**: 07
@@ -352,6 +353,8 @@ He is a **certified translator** for online courses organized by NPTEL (National
 
 ## As Resource Person
 
+- One-day FDP on "Enhancing the Quality of Higher Education through Ranking and Accredidation Metrics" at Nandha Engineering College, Erode during Jan 2025.
+- FDP on "The impact of Research Publications of NIRF Ranking and Institutional Recognition" at Dr. N.G.P. Arts and Science College, Coimbatore during Jan 2025.
 - One-day Guest Lecture on Machine Learning Algorithms at Avinashilingam University, Campus-II, Coimbatore during Jan 2024.
 - One-day Guest Lecture on Linear Control Systems at Electrical and Electronics Engineering, Kalasalingam Academy of Research and Education during Dec 2019.
 - One-day Guest Lecture on Signal Processing Using MATLAB at Veerachamy Chettiar College of Engineering and Technology, Puliangudi during Aug 2016.
