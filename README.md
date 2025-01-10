@@ -184,6 +184,8 @@ He is a **certified translator** for online courses organized by NPTEL (National
 - **WoS Researcher ID**: [https://www.webofscience.com/wos/author/record/ABF-6323-2020](https://www.webofscience.com/wos/author/record/ABF-6323-2020)
 - **Scopus**: [https://www.scopus.com/authid/detail.uri?authorId=57225850005](https://www.scopus.com/authid/detail.uri?authorId=57225850005)
 - **Google Scholar**: [https://scholar.google.com/citations?user=5NzwtqQAAAAJ&hl=en](https://scholar.google.com/citations?user=5NzwtqQAAAAJ&hl=en)
+- **CoLab**: [https://colab.ws/researchers/R-3AD70-0B7C4-RW42V](https://colab.ws/researchers/R-3AD70-0B7C4-RW42V)
+- **Kudos**: [https://www.growkudos.com/profile/palanichamy_naveen](https://www.growkudos.com/profile/palanichamy_naveen)
 - **Research Gate**: [https://www.researchgate.net/profile/Naveen-P](https://www.researchgate.net/profile/Naveen-P)
 - **LinkedIn**: [https://www.linkedin.com/in/naveen-p-31b330204/](https://www.linkedin.com/in/naveen-p-31b330204/)
 
