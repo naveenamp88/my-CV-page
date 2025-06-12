@@ -53,9 +53,9 @@ He is a **certified translator** for online courses organized by NPTEL (National
 
 ### Preprint
 - **Naveen, Palanichamy** (2023). How to Get your Institution into the Top 200 in NIRF Ranking?. TechRxiv. Preprint. [DOI: 10.36227/techrxiv.23443112.v1](https://doi.org/10.36227/techrxiv.23443112.v1)
-- **Naveen,  P.** 2025 "Weighing Faculty Research Contribution in Institutional Growth and Incentivization" Preprints. https://doi.org/10.20944/preprints202503.1733.v1
-- **Naveen,  P.** 2025 "Performance Appraisal System for Faculty in Engineering Institutions" Preprints. https://doi.org/10.20944/preprints202504.1730.v1
-- **Naveen,  P.** 2025 "A Comprehensive Player Ranking System for ODI Cricket Based on Relative Grading Performance" Preprints. https://doi.org/10.20944/preprints202504.0045.v1
+- **Naveen,  P.** 2025 "Weighing Faculty Research Contribution in Institutional Growth and Incentivization" Preprints. [DOI:10.20944/preprints202503.1733.v1](https://doi.org/10.20944/preprints202503.1733.v1)
+- **Naveen,  P.** 2025 "Performance Appraisal System for Faculty in Engineering Institutions" Preprints. [DOI:10.20944/preprints202504.1730.v1](https://doi.org/10.20944/preprints202504.1730.v1)
+- **Naveen,  P.** 2025 "A Comprehensive Player Ranking System for ODI Cricket Based on Relative Grading Performance" Preprints. [DOI:10.20944/preprints202504.0045.v1(https://doi.org/10.20944/preprints202504.0045.v1)
 
 ### Journals and Conferences
 
