@@ -53,9 +53,13 @@ He is a **certified translator** for online courses organized by NPTEL (National
 
 ### Preprint
 - **Naveen, Palanichamy** (2023). How to Get your Institution into the Top 200 in NIRF Ranking?. TechRxiv. Preprint. [DOI: 10.36227/techrxiv.23443112.v1](https://doi.org/10.36227/techrxiv.23443112.v1)
+- **Naveen,  P.** 2025 "Weighing Faculty Research Contribution in Institutional Growth and Incentivization" Preprints. https://doi.org/10.20944/preprints202503.1733.v1
+- **Naveen,  P.** 2025 "Performance Appraisal System for Faculty in Engineering Institutions" Preprints. https://doi.org/10.20944/preprints202504.1730.v1
+- **Naveen,  P.** 2025 "A Comprehensive Player Ranking System for ODI Cricket Based on Relative Grading Performance" Preprints. https://doi.org/10.20944/preprints202504.0045.v1
 
 ### Journals and Conferences
 
+- **Naveen, P.** Book Review: "Hybrid Intelligence for Social Networks" by: Hema Banati, Siddhartha Bhattacharyya, Ashish Mani, Mario Köppen. AI & Soc (2025). [DOI:10.1007/s00146-025-02273-2] (https://doi.org/10.1007/s00146-025-02273-2) [Science Citation Index Expanded, Impact factor: 2.9 (2023)]
 - S. Sadesh, Rajasekaran Thangaraj, P. Pandiyan, R. Devi Priya, **Palanichamy Naveen** (In Press). "Identification of Monkeypox Disease Based on MpoxNet and Swin Transformer Models Using Mobile Application", International Journal of Interactive Multimedia and Artificial Intelligence, vol. In press, issue In press, no. In press, pp. 1-13. [DOI:10.9781/ijimai.2024.11.001](https://doi.org/10.9781/ijimai.2024.11.001)[Science Citation Index Expanded, Impact factor: 3.4 (2023)]
 - **Naveen, P.**, Hassaballah, M. "Scene text detection using structured information and an end-to-end trainable generative adversarial networks." *Pattern Analysis and Applications*, Volume 27, no. 33 (2024). [DOI: 10.1007/s10044-024-01259-y](https://doi.org/10.1007/s10044-024-01259-y) [Science Citation Index Expanded, Impact factor: 3.9 (2022)]
 - **Naveen, P.**, Jayaraghavi, R. "Image Steganography Method for Securing Multiple Images Using LSB–GA." *Wireless Personal Communication* (2024). [DOI: 10.1007/s11277-024-10945-3](https://doi.org/10.1007/s11277-024-10945-3) [Science Citation Index Expanded, Impact factor: 2.2 (2022)]
