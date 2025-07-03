@@ -43,7 +43,9 @@ He is a **certified translator** for online courses organized by NPTEL (National
 
 ## Awards and Recognitions
 
+- Springer Nature **Editor of Distinction Award** 2025
 - **Best Faculty Award**, Kalasalingam Academy of Research and Education, 2019
+- **SSN Merit Scholarship Award** during Post Graduate, 2009.
 
 ## Publications
 
