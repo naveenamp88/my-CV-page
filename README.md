@@ -60,7 +60,7 @@ He is a **certified translator** for online courses organized by NPTEL (National
 - **Naveen,  P.** 2025 "A Comprehensive Player Ranking System for ODI Cricket Based on Relative Grading Performance" Preprints. [DOI:10.20944/preprints202504.0045.v1](https://doi.org/10.20944/preprints202504.0045.v1)
 
 ### Journals and Conferences 
-[&dagger-Primary Corresponding Author (CA), * - Joint CA, **WoS** - Quartile and Impact Factor represents at the time of article published online ]
+[<sup>†</sup>-Primary Corresponding Author (CA), * - Joint CA, **WoS** - Quartile and Impact Factor represents at the time of article published online ]
 
 - Saravanan, G., Pazhanimuthu, C. & **Naveen, P.**† Performance improvement of DC motor control system using PID controller with Kookaburra and Red Panda optimization algorithm. Sci Rep 15, 20021 (2025). [DOI:10.1038/s41598-025-87607-2](https://doi.org/10.1038/s41598-025-87607-2) [Science Citation Index Expanded **(Q1)**, Impact factor: 3.9 (2024)]
 - Mani, P., Ramachandran, N., **Naveen, P.**† et al. An enhanced lightweight transformer-based framework for accurate retinal disease classification from OCT images. J Opt (2025). [DOI:10.1007/s12596-025-02793-6](https://doi.org/10.1007/s12596-025-02793-6) [Emerging Sources Citation Index **(Q2)**, Impact factor: 2.5 (2024)]
