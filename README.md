@@ -139,10 +139,10 @@ He is a **certified translator** for online courses organized by NPTEL (National
 
 ## Editorial Roles
 
-- **Associate Editor**, PLOS One [**ESCI - Q1**]
+- **Academic Editor**, PLOS One [**ESCI - Q1**]
 - **Associate Editor**, AD ALTA-Journal of Interdisciplinary Research [**ESCI - Q4**]
 - **Associate Editor**, Journal of Intelligent and Fuzzy Systems (2023-2024) [**SCI - Q4**]
-- **Editorial Board Member** for **Nature Scientific Reports** [**SCI - Q1**], International Journal of Interactive Multimedia and Artificial Intelligence [**SCI-Q2**], ADCAIJ: Advances in Distributed Computing and Artificial Intelligence Journal [**ESCI - Q4**], International Research Journal of Multidisciplinary Technovation (IRJMT) [**ESCI - Q4**], Discover Imaging and Journal of Current Science and Technology (**Scopus**).
+- **Editorial Board Member** for **Nature Scientific Reports** [**SCIE - Q1**], International Journal of Interactive Multimedia and Artificial Intelligence [**SCIE-Q2**], ADCAIJ: Advances in Distributed Computing and Artificial Intelligence Journal [**ESCI - Q4**], International Research Journal of Multidisciplinary Technovation (IRJMT) [**ESCI - Q4**], Discover Imaging and Journal of Current Science and Technology (**Scopus**).
 
 ## Reviewer Roles
 
@@ -281,8 +281,8 @@ He is a **certified translator** for online courses organized by NPTEL (National
 
 - **Professional Certification**: 21
 - **Articles published in Journals**: 21
-- **Articles indexed in WoS**: 17
-- **Articles indexed in Scopus**: 47
+- **Articles indexed in WoS**: 19
+- **Articles indexed in Scopus**: 52
 - **Patents Published (INDIA)**: 04
 - **Books Authored**: 02
 - **Associate Editor**: 03
@@ -290,8 +290,8 @@ He is a **certified translator** for online courses organized by NPTEL (National
 - **Editorial Board Member**: 04
 - **Events Organized**: 07
 - **Articles Reviewed (Ref.: WoS)**: 300+
-- **Faculty Development Program Attended**: 17
-- **Papers Presented in Conferences**: 24
+- **Faculty Development Program Attended**: 20
+- **Papers Presented in Conferences**: 26
 - **Students Supervised**: 16
 - **Administrative Roles**: 20
 - **Workshop and Seminar Attended**: 25
@@ -310,6 +310,9 @@ He is a **certified translator** for online courses organized by NPTEL (National
 
 ## Participation in Courses, Webinars, and Workshops
 
+- Participated in 5 days Anusandhan National Research Foundation Sponsored Workshop on Geospatial Intelligence:Applications & Challenges in the Big Data Era Organized by the Indian Institute of Information Technology Sri City, June 10-14, 2025.
+- Participated in 5 days AICTE Training And Learning (ATAL) Academy Faculty Development Program on 6 DAY ONLINE FACULTY DEVELOPMENT PROGRAM ON
+“GENERATIVE AI: TECHNIQUES, TOOLS, AND APPLICATIONS” at National Institute ofTechnology Delhi from 03/02/2025 to 08/02/2025.
 - Participated in 5 days Short Term Course and Faculty Development Program on “Applications of Machine Learning Techniques in Sustainable Technologies (AMLST-2024)” held online from 24th Jan 2024 to 28th Jan 2024 organized by Department of Computer Science & Engineering and Electrical Engineering, National Institute of Technology Rourkela, Rourkela, Odisha, India.
 - Attended educational webinar on “Reviewer Roulette: Understanding reviewer behaviors and motivations to improve our responses” organized by LetPub Learning Nexus on August 23, 2023.
 - Participated in 5 days Short Term Course on “Security in Artificial Intelligence: Strategies and Best Practices” held online from 14th June 2023 to 18th June 2023 organized by Department of Computer Science & Engineering, Dr. B R Ambedkar National Institute of Technology, Jalandhar, Punjab, India.
