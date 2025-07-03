@@ -60,10 +60,10 @@ He is a **certified translator** for online courses organized by NPTEL (National
 - **Naveen,  P.** 2025 "A Comprehensive Player Ranking System for ODI Cricket Based on Relative Grading Performance" Preprints. [DOI:10.20944/preprints202504.0045.v1](https://doi.org/10.20944/preprints202504.0045.v1)
 
 ### Journals and Conferences 
-[<sup>†</sup>-Primary Corresponding Author (CA), * - Joint CA, **WoS** - Quartile and Impact Factor represents at the time of article published online ]
+[<sup>†</sup>-Primary Corresponding Author (CA), * - Joint CA, **WoS** - Quartile and Impact Factor represents the time - article published online ]
 
-- Saravanan, G., Pazhanimuthu, C. & **Naveen, P.**<sup>†</sup> Performance improvement of DC motor control system using PID controller with Kookaburra and Red Panda optimization algorithm. Sci Rep 15, 20021 (2025). [DOI:10.1038/s41598-025-87607-2](https://doi.org/10.1038/s41598-025-87607-2) [Science Citation Index Expanded **(Q1)**, Impact factor: 3.9 (2024)]
-- Mani, P., Ramachandran, N., **Naveen, P.**<sup>†</sup> et al. An enhanced lightweight transformer-based framework for accurate retinal disease classification from OCT images. J Opt (2025). [DOI:10.1007/s12596-025-02793-6](https://doi.org/10.1007/s12596-025-02793-6) [Emerging Sources Citation Index **(Q2)**, Impact factor: 2.5 (2024)]
+- Saravanan, G., Pazhanimuthu, C. & **Naveen, P.**<sup>†</sup> Performance improvement of DC motor control system using PID controller with Kookaburra and Red Panda optimization algorithm. Scientific Reports 15, 20021 (2025). [DOI:10.1038/s41598-025-87607-2](https://doi.org/10.1038/s41598-025-87607-2) [Science Citation Index Expanded **(Q1)**, Impact factor: 3.9 (2024)]
+- Mani, P., Ramachandran, N., **Naveen, P.**<sup>†</sup> et al. An enhanced lightweight transformer-based framework for accurate retinal disease classification from OCT images. Journal of Optics (2025). [DOI:10.1007/s12596-025-02793-6](https://doi.org/10.1007/s12596-025-02793-6) [Emerging Sources Citation Index **(Q2)**, Impact factor: 2.5 (2024)]
 - **Naveen, P.** The tyranny of algorithmic personification and why we must resist it. AI & Soc (2025). [DOI:10.1007/s00146-025-02359-x](https://doi.org/10.1007/s00146-025-02359-x) [Science Citation Index Expanded **(Q2)**, Impact factor: 4.7 (2024)]
 - **Naveen, P.** Book Review: "Hybrid Intelligence for Social Networks" by: Hema Banati, Siddhartha Bhattacharyya, Ashish Mani, Mario Köppen. AI & Soc (2025). [DOI:10.1007/s00146-025-02273-2](https://doi.org/10.1007/s00146-025-02273-2) [Science Citation Index Expanded **(Q2)**, Impact factor: 4.7 (2024)]
 - S. Sadesh, Rajasekaran Thangaraj, P. Pandiyan, R. Devi Priya, **Palanichamy Naveen**<sup>†</sup> (In Press). "Identification of Monkeypox Disease Based on MpoxNet and Swin Transformer Models Using Mobile Application", International Journal of Interactive Multimedia and Artificial Intelligence, vol. In press, issue In press, no. In press, pp. 1-13. [DOI:10.9781/ijimai.2024.11.001](https://doi.org/10.9781/ijimai.2024.11.001)[Science Citation Index Expanded **(Q2)**, Impact factor: 3.4 (2023)]
@@ -379,10 +379,12 @@ He is a **certified translator** for online courses organized by NPTEL (National
 
 ## Responsibilities Held
 
-- **Assistant Director – Accreditation and Ranking**
+- **Convenor - IQAC, NAAC, Research (Academic & Sponsored)** - From June 2025
+- **NIRF Coordinator** - (From Dec 2024)
 - **Overall Coordinator – NIRF** (June 2021 to May 2023)
-- **Coordinator - Sponsored Research** (From May 2023)
+- **Coordinator - Sponsored Research** (From May 2023 - Nov 2024)
 - **Valuation Centre In-charge** (4 years)
+- **Assistant Director – Accreditation and Ranking** (2020-2021)
 - **University Admission – Overall Coordinator** (4 months)
 - **Project Coordinator** (3 years, 3 – UG, 2 - PG)
 - **One Credit Course In-charge** (2 years)
