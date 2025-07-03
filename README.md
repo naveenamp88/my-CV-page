@@ -368,8 +368,11 @@ He is a **certified translator** for online courses organized by NPTEL (National
 
 ## As Resource Person
 
-- One-day FDP on "Enhancing the Quality of Higher Education through Ranking and Accredidation Metrics" at Nandha Engineering College, Erode during Jan 2025.
+- One-day FDP on "OBE in the AI Era: Leveraging Technology for NIRF Excellence in Teaching-Learning" at Nandha Engineering College, Erode on 30 June 2025.
+- One-day FDP on "Enhancing the Quality of Higher Education through Ranking and Accredidation Metrics" at Nandha Engineering College, Erode on 03 January 2025.
+- Mock Audit prior to NBA Visit at PSG Polytechnic College, Coimbatore on 02 April 2025.
 - FDP on "The impact of Research Publications of NIRF Ranking and Institutional Recognition" at Dr. N.G.P. Arts and Science College, Coimbatore during Jan 2025.
+- One-day Session on “Application of AI in Food Processing " in the 8th Short-term Capacity Building Program on ‘AI for Engineers: Tools, Techniques and Applications, on 18th October 2024 at Avinashilingam Institute for Home Science and Higher Education for Women, Coimbatore.
 - One-day Guest Lecture on Machine Learning Algorithms at Avinashilingam University, Campus-II, Coimbatore during Jan 2024.
 - One-day Guest Lecture on Linear Control Systems at Electrical and Electronics Engineering, Kalasalingam Academy of Research and Education during Dec 2019.
 - One-day Guest Lecture on Signal Processing Using MATLAB at Veerachamy Chettiar College of Engineering and Technology, Puliangudi during Aug 2016.
