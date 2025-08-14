@@ -2,18 +2,18 @@
 
 Associate Professor, Department of Electronics and Communication Engineering, Coimbatore – 641 048, Tamil Nadu, India.  
 Mobile: +91-86674 05042  
-Email: naveenamp88@gmail.com; naveen.p@drngpit.ac.in  
+Email: naveenamp88@ieee.org; naveen.p@drngpit.ac.in  
 
 ---
 # About Palanichamy Naveen
 
 Palanichamy Naveen received a B.E. in **Electronics and Communication Engineering** from Arulmigu Kalasalingam College of Engineering, [now Kalasalingam Academy of Research and Education] (Anna University, Chennai) in 2009. He obtained an M.E. in **Power Electronics and Drives** from Sri Sivasubramaniya Nadar College of Engineering ([2023] NIRF – 29) (Anna University, Chennai) in 2011. In 2022, he completed his Ph.D. in **Electronics and Communication Engineering** (Specialization in Computer Vision and Machine Learning) from Kalasalingam Academy of Research and Education (THE World University Ranking [2023] 601-800, NIRF - 29). 
 
-**School Topper and Rank Holder** in 10th and 12th through State Board, passed out in 2003 and 2005, respectively. He has about 13+ years of teaching experience at various levels and is currently holding the responsibility of Convenor -NIRF, IQAC, Research, NAAC, as well as the position of Associate Professor in the Department of Electronics and Communication Engineering at Dr.N.G.P. Institute of Technology, Coimbatore, India. He is a recognized Ph.D. Supervisor (4490014) at Anna University Chennai under Faculty of Electronics and Communication Engineering.
+**School Topper and Rank Holder** in 10th and 12th through State Board, passed out in 2003 and 2005, respectively. He has about 13+ years of teaching experience at various levels and is currently holding the responsibility of **Convener - NIRF, IQAC, Research (Academic & Sponsored), NAAC**, as well as the position of **Associate Professor** in the Department of Electronics and Communication Engineering at Dr.N.G.P. Institute of Technology, Coimbatore, India. He is a **Senior IEEE member**. He is a recognized Ph.D. Supervisor (4490014) at Anna University Chennai under Faculty of Electronics and Communication Engineering.
 
 Prior to joining Dr.N.G.P. Institute of Technology, he was associated as Coordinator - Sponsored Research in the Centre for Research and Development at KPR Institute of Engineering and Technology, Coimbatore, India. He is also Visiting Researcher at University of Hradec Králové, Czech Republic. He was associated as **NIRF Co-ordinator** at Sri Eshwar College of Engineering for 2 years (2021-2023) and also served as **Assistant Director - Accreditation and Ranking** at Kalasalingam Academy of Research and Education. His research interests include Computer Vision and Machine Learning. He received the best faculty award from Kalasalingam Academy of Research and Education in the year 2019. He published an authored book titled "Understanding the Metaverse and its Technological Marvels: Beyond Reality" and "Digital Twins and Cybersecurity". 
 
-He has published around 47 papers in International Journals and Conferences. He also published 4 patents. He is an **Academic Editor** in the PLOS One (Q1), **Associate Editor** AD ALTA-Journal of Interdisciplinary Research (Q4) and Journal of Intelligent and Fuzzy Systems (2023-2024) (Q4). He currently serves as an **Editorial Board member** for the **Nature** - Scientific Reports (Q1), International Journal of Interactive Multimedia and Artificial Intelligence (Q2), ADCAIJ: Advances in Distributed Computing and Artificial Intelligence Journal (Q4), International Research Journal of Multidisciplinary Technovation (IRJMT) (Q4), Computer Methods and Programs in Biomedicine Update (Scopus), and Journal of Current Science and Technology (Scopus). 
+He has published around 54 papers in International Journals and Conferences. He also published 4 patents. He is an **Academic Editor** in the PLOS One (Q1), **Associate Editor** AD ALTA-Journal of Interdisciplinary Research (Q4) and Journal of Intelligent and Fuzzy Systems (2023-2024) (Q4). He currently serves as an **Editorial Board member** for the **Nature** - Scientific Reports (Q1), International Journal of Interactive Multimedia and Artificial Intelligence (Q2), ADCAIJ: Advances in Distributed Computing and Artificial Intelligence Journal (Q4), International Research Journal of Multidisciplinary Technovation (IRJMT) (Q4), Computer Methods and Programs in Biomedicine Update (Scopus), and Journal of Current Science and Technology (Scopus). 
 
 He has also been serving as a review board member for peer-reviewed journals. In addition to his regular academic activities, he has played a vital role in various Accreditation processes (ABET, NBA, NAAC, UGC, AICTE), Ranking activities (NIRF, THE World University Rankings), Placement Activities (Placement Coordinator), examination cell duties (Valuation Centre in-charge), and Institution admission procedures (Overall Admission Coordinator). He has reviewed 300+ articles for reputable journals and conferences. Additionally, he has completed more than 21 Professional Certifications from various platforms such as NPTEL, Coursera, HP, and IEEE. 
 
@@ -310,9 +310,11 @@ He is a **certified translator** for online courses organized by NPTEL (National
 
 ## Participation in Courses, Webinars, and Workshops
 
-- Participated in 5 days Anusandhan National Research Foundation Sponsored Workshop on Geospatial Intelligence:Applications & Challenges in the Big Data Era Organized by the Indian Institute of Information Technology Sri City, June 10-14, 2025.
-- Participated in 5 days AICTE Training And Learning (ATAL) Academy Faculty Development Program on 6 DAY ONLINE FACULTY DEVELOPMENT PROGRAM ON
-“GENERATIVE AI: TECHNIQUES, TOOLS, AND APPLICATIONS” at National Institute ofTechnology Delhi from 03/02/2025 to 08/02/2025.
+- Participated in 3 days National Level Workshop on Remote Sensing Image Analysis using Machine Learning Algorithms" Organized by the Amrita School of Engineering, at Amrita Vishwa Vidyapeetham, Coimabtore, August 6-8, 2025.
+- Participated in One-Day Workshop on “Inclusive Education Toolkit and Role of Artificial Intelligence in Inclusive Education and Assistive
+Technologies” held on 24th July 2025 jointly organized by Nottingham Trent University, United Kingdom and Indian Institute of Technology Palakkad, Kerala.
+- Participated in 5 days Anusandhan National Research Foundation Sponsored Workshop on "Geospatial Intelligence:Applications & Challenges in the Big Data Era" Organized by the Indian Institute of Information Technology Sri City, June 10-14, 2025.
+- Participated in 5 days AICTE Training And Learning (ATAL) Academy Faculty Development Program on 6 DAY ONLINE FACULTY DEVELOPMENT PROGRAM ON “GENERATIVE AI: TECHNIQUES, TOOLS, AND APPLICATIONS” at National Institute ofTechnology Delhi from 03/02/2025 to 08/02/2025.
 - Participated in 5 days Short Term Course and Faculty Development Program on “Applications of Machine Learning Techniques in Sustainable Technologies (AMLST-2024)” held online from 24th Jan 2024 to 28th Jan 2024 organized by Department of Computer Science & Engineering and Electrical Engineering, National Institute of Technology Rourkela, Rourkela, Odisha, India.
 - Attended educational webinar on “Reviewer Roulette: Understanding reviewer behaviors and motivations to improve our responses” organized by LetPub Learning Nexus on August 23, 2023.
 - Participated in 5 days Short Term Course on “Security in Artificial Intelligence: Strategies and Best Practices” held online from 14th June 2023 to 18th June 2023 organized by Department of Computer Science & Engineering, Dr. B R Ambedkar National Institute of Technology, Jalandhar, Punjab, India.
@@ -379,7 +381,7 @@ He is a **certified translator** for online courses organized by NPTEL (National
 
 ## Responsibilities Held
 
-- **Convenor - IQAC, NAAC, Research (Academic & Sponsored)** - From June 2025
+- **Convener - IQAC, NAAC, Research (Academic & Sponsored)** - From June 2025
 - **NIRF Coordinator** - (From Dec 2024)
 - **Overall Coordinator – NIRF** (June 2021 to May 2023)
 - **Coordinator - Sponsored Research** (From May 2023 - Nov 2024)
