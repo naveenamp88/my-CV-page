@@ -29,7 +29,7 @@ He is a **certified translator** for online courses organized by NPTEL (National
 ## Professional Experience
 
 - **Associate Professor, Convener - IQAC, NIRF, NAAC, Research**, Dr.N.G.P. Institute of Technology, Coimbatore, India (May 2025 – Till date)
-- **Associate Professor, NIRF Coordinator**, Dr.N.G.P. Institute of Technology, Coimbatore, India (Dec 2024 – Till date)
+-- **Associate Professor, NIRF Coordinator**, Dr.N.G.P. Institute of Technology, Coimbatore, India (Dec 2024 – Till date)
 - **Assistant Professor, Coordinator – Sponsored Research**, KPR Institute of Engineering and Technology, Coimbatore, India (May 2023 – Nov 2024)
 - **Visiting Researcher**, University of Hradec Králové, Czech Republic (Sep 2023 – Till date)
 - **Assistant Professor, NIRF Coordinator**, Sri Eshwar College of Engineering, Coimbatore (May 2021 – May 2023)
@@ -178,6 +178,7 @@ He is a **certified translator** for online courses organized by NPTEL (National
 - Translator for the Course **Electrical Measurement and Electronic Instruments (108105153)** offered by IIT Kharagpur in Tamil Language for 56 hours during July-Nov 2020.
 
 ## Committee Member
+- Member of **Technical Program Committee** for the 3rd IEEE International Conference on Emerging Research in Computational Science (ICERCS-2025), organised by Department of Computer Science and Engineering, Artificial Intelligence and Data Science, CSE (Cybersecurity), Karpagam Academy of Higher Education (Deemed to be Universoty), Coimbatore, India.
 - Member of **Technical Program Committee** for the International Conference on Pervasive Computational Technologies (ICPCT-2025), organised by Department of Applied Computational Science & Engineering, GL Bajaj Institute of Technology and Management, Greater Noida, India.
 - **Publication Chair** for 2025 Second International Conference on Cognitive Robotics and Intelligent Systems (ICC - ROBINS 2025), organised by KPR Institute of Engineering and Technology, Coimbatore, India.
 - **Editorial Board Member** of the 9th RSU International Research Conference (RSUCON-2024), organised by Rangsit University, **THAILAND**.
@@ -312,8 +313,7 @@ He is a **certified translator** for online courses organized by NPTEL (National
 ## Participation in Courses, Webinars, and Workshops
 
 - Participated in 3 days National Level Workshop on Remote Sensing Image Analysis using Machine Learning Algorithms" Organized by the Amrita School of Engineering, at Amrita Vishwa Vidyapeetham, Coimabtore, August 6-8, 2025.
-- Participated in One-Day Workshop on “Inclusive Education Toolkit and Role of Artificial Intelligence in Inclusive Education and Assistive
-Technologies” held on 24th July 2025 jointly organized by Nottingham Trent University, United Kingdom and Indian Institute of Technology Palakkad, Kerala.
+- Participated in One-Day Workshop on “Inclusive Education Toolkit and Role of Artificial Intelligence in Inclusive Education and Assistive Technologies” held on 24th July 2025 jointly organized by Nottingham Trent University, United Kingdom and Indian Institute of Technology Palakkad, Kerala.
 - Participated in 5 days Anusandhan National Research Foundation Sponsored Workshop on "Geospatial Intelligence:Applications & Challenges in the Big Data Era" Organized by the Indian Institute of Information Technology Sri City, June 10-14, 2025.
 - Participated in 5 days AICTE Training And Learning (ATAL) Academy Faculty Development Program on 6 DAY ONLINE FACULTY DEVELOPMENT PROGRAM ON “GENERATIVE AI: TECHNIQUES, TOOLS, AND APPLICATIONS” at National Institute ofTechnology Delhi from 03/02/2025 to 08/02/2025.
 - Participated in 5 days Short Term Course and Faculty Development Program on “Applications of Machine Learning Techniques in Sustainable Technologies (AMLST-2024)” held online from 24th Jan 2024 to 28th Jan 2024 organized by Department of Computer Science & Engineering and Electrical Engineering, National Institute of Technology Rourkela, Rourkela, Odisha, India.
