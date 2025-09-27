@@ -61,7 +61,7 @@ He is a **certified translator** for online courses organized by NPTEL (National
 - **Naveen,  P.** 2025 "Performance Appraisal System for Faculty in Engineering Institutions" Preprints. [DOI:10.20944/preprints202504.1730.v1](https://doi.org/10.20944/preprints202504.1730.v1)
 - **Naveen,  P.** 2025 "A Comprehensive Player Ranking System for ODI Cricket Based on Relative Grading Performance" Preprints. [DOI:10.20944/preprints202504.0045.v1](https://doi.org/10.20944/preprints202504.0045.v1)
 
-### Journals and Conferences 
+### Journals 
 [<sup>†</sup>-Primary Corresponding Author (CA), * - Joint CA, **WoS** - Quartile and Impact Factor represents the time - article published online ]
 
 - Saravanan, G., Pazhanimuthu, C. & **Naveen, P.**<sup>†</sup> Performance improvement of DC motor control system using PID controller with Kookaburra and Red Panda optimization algorithm. Scientific Reports 15, 20021 (2025). [DOI:10.1038/s41598-025-87607-2](https://doi.org/10.1038/s41598-025-87607-2) [Science Citation Index Expanded **(Q1)**, Impact factor: 3.9 (2024)]
@@ -86,6 +86,10 @@ He is a **certified translator** for online courses organized by NPTEL (National
 - M. Thilagaraj, B. Dwarakanath, V. Pandimurugan, **P. Naveen**, M. S. Hema, S. Hariharasitaraman, N. Arunkumar, Petchinathan Govindan. "A Novel Intelligent Hybrid Optimized Analytics and Streaming Engine for Medical Big Data." *Computational and Mathematical Methods in Medicine*, vol. 2022, Article ID 7120983, 11 pages, 2022. [DOI: 10.1155/2022/7120983](https://doi.org/10.1155/2022/7120983) [Science Citation Index Expanded, Impact factor: 2.238 (2021)]
 - **Naveen, P.**, Pothiraj, S. (2021). "Smart parking assistance using IoT." *3C Tecnología. Glosas de innovación aplicadas a la pyme*, Edición Especial, (November, 2021), 355-369. [DOI: 10.17993/3ctecno.2021.specialissue8.355-369](https://doi.org/10.17993/3ctecno.2021.specialissue8.355-369) [Emerging Sources Citation Index] (Web of Science)
 - **Naveen, P.**, Adapala, R., Sreekanth, A., y Rakesh, B. (2021). "Automatic watering system using Arduino." *3C Tecnología. Glosas de innovación aplicadas a la pyme*, Edición Especial, (November, 2021), 33-39. [DOI: 10.17993/3ctecno.2021.specialissue8.33-39](https://doi.org/10.17993/3ctecno.2021.specialissue8.33-39) [Emerging Sources Citation Index] (Web of Science)
+
+### Conferences
+
+- P. Naveen, T. Akilan, P. Manikandan, P. B, C. Swedheetha and M. Saravanan, "Comparative Review of Large Language Models," 2025 5th International Conference on Soft Computing for Security Applications (ICSCSA), Salem, India, 2025, pp. 2120-2124. [doi: 10.1109/ICSCSA66339.2025.11170906](https://doi: 10.1109/ICSCSA66339.2025.11170906) [Scopus Indexed] 
 - **P. Naveen**, T. Akilan, P. Manikandan, B. Pushpavanam, C. Swedheetha and H. James Deva Koresh. "A Comprehensive Review on Analysing of Brain Signals Using Different Clustering Methods." *2023 4th International Conference on Smart Electronics and Communication (ICOSEC)*, Trichy, India, 2023, pp. 930-937. [DOI: 10.1109/ICOSEC58147.2023.10275953](https://doi.org/10.1109/ICOSEC58147.2023.10275953) [Scopus Indexed]
 - **P. Naveen**, S. NithyaSai and B. Nataraj. "Implementation of Extreme Learning Machine and Software as a Service for Recognition of Tamil Handwritten words." *2023 Third International Conference on Secure Cyber Computing and Communication (ICSCCC)*, Jalandhar, India, 2023, pp. 234-239. [DOI: 10.1109/ICSCCC58608.2023.10176512](https://doi.org/10.1109/ICSCCC58608.2023.10176512) [Scopus Indexed]
 - **P. Naveen**, K. Ravi Teja, K. Sahithi Reddy, S. Melikis Sam, M. Dinesh Kumar and M. Saravanan. "ATMEGA 328-based Gas Leakage Monitoring and Alerting IoT System with SMS Notification." *2023 9th International Conference on Advanced Computing and Communication Systems (ICACCS)*, Coimbatore, India, 2023, pp. 1300-1305. [DOI: 10.1109/ICACCS57279.2023.10112899](https://doi.org/10.1109/ICACCS57279.2023.10112899) [Scopus Indexed]
