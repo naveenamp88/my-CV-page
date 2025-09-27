@@ -1,6 +1,6 @@
 # Dr. PALANICHAMY NAVEEN, Ph.D.
 
-Associate Professor, Dean - Ranking & Accreditation | Department of Electronics and Communication Engineering, Coimbatore – 641 048, Tamil Nadu, India.  
+Associate Professor, **Dean - Ranking & Accreditation** | Department of Electronics and Communication Engineering, Coimbatore – 641 048, Tamil Nadu, India.  
 Mobile: +91-86674 05042  
 Email: naveenamp88@ieee.org; naveen.p@drngpit.ac.in  
 
