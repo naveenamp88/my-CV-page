@@ -188,8 +188,8 @@ He is a **certified translator** for online courses organized by NPTEL (National
 - Translator for the Course **Electrical Measurement and Electronic Instruments (108105153)** offered by IIT Kharagpur in Tamil Language for 56 hours during July-Nov 2020.
 
 ## Committee Member
-- **PC Member** for International Conference on Ai-Driven STEM Education and Learning Technologies (AISTEM-EDU 2025), organized by Prince Mohammad Bin Fahd University (PMU), Al Khobar, **Kingdom of Saudi Arabia**.
 - **PC Member** for IEEE International Conference on Computational Intelligence, Security and Artificial Intelligence (IEEE-IntelliSecAI 2025), organized by Prince Mohammad Bin Fahd University (PMU), Al Khobar, **Kingdom of Saudi Arabia**.
+- **PC Member** for International Conference on AI-Driven STEM Education and Learning Technologies (AISTEM-EDU 2025), organized by Prince Mohammad Bin Fahd University (PMU), Al Khobar, **Kingdom of Saudi Arabia**.
 - Member of **Technical Program Committee** for the 3rd IEEE International Conference on Emerging Research in Computational Science (ICERCS-2025), organised by Department of Computer Science and Engineering, Artificial Intelligence and Data Science, CSE (Cybersecurity), Karpagam Academy of Higher Education (Deemed to be Universoty), Coimbatore, India.
 - Member of **Technical Program Committee** for the International Conference on Pervasive Computational Technologies (ICPCT-2025), organised by Department of Applied Computational Science & Engineering, GL Bajaj Institute of Technology and Management, Greater Noida, India.
 - **Publication Chair** for 2025 Second International Conference on Cognitive Robotics and Intelligent Systems (ICC - ROBINS 2025), organised by KPR Institute of Engineering and Technology, Coimbatore, India.
