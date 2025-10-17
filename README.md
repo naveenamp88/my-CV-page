@@ -195,6 +195,7 @@ He is a **certified translator** for online courses organized by NPTEL (National
 - **Publication Chair** for 2025 Second International Conference on Cognitive Robotics and Intelligent Systems (ICC - ROBINS 2025), organised by KPR Institute of Engineering and Technology, Coimbatore, India.
 - **Editorial Board Member** of the 9th RSU International Research Conference (RSUCON-2024), organised by Rangsit University, **THAILAND**.
 - **Conference Secretariat** for 2024 First International Conference on Cognitive Robotics and Intelligent Systems (ICC - ROBINS 2024), organised by KPR Institute of Engineering and Technology, Coimbatore, India.
+- **PC Member** for IEEE International Conference on Artificial Intelligence in Engineering and Technology (IICAIET 2022), co-organized by the Artificial Intelligence Research Unit and Universiti Malaysia Sabah (UMS),  Kota Kinabalu, **Malaysia** from 13 to 15 September2022.
 
 
 ## Skills
