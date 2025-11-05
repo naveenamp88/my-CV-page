@@ -66,6 +66,7 @@ He is a **certified translator** for online courses organized by NPTEL (National
 ### Journals 
 [<sup>†</sup>-Primary Corresponding Author (CA), * - Joint CA, **WoS** - Quartile and Impact Factor represents the time - article published online ]
 
+- **Naveen, P.** AI’s cult of optimization: why “good enough” might save us. AI & Soc (2025). [DOI:https://doi.org/10.1007/s00146-025-02723-x](https://doi.org/10.1007/s00146-025-02723-x) [Science Citation Index Expanded **(Q2)**, Impact factor: 4.7 (2024)]
 - Saravanan, G., Pazhanimuthu, C. & **Naveen, P.**<sup>†</sup> Performance improvement of DC motor control system using PID controller with Kookaburra and Red Panda optimization algorithm. Scientific Reports 15, 20021 (2025). [DOI:10.1038/s41598-025-87607-2](https://doi.org/10.1038/s41598-025-87607-2) [Science Citation Index Expanded **(Q1)**, Impact factor: 3.9 (2024)]
 - Mani, P., Ramachandran, N., **Naveen, P.**<sup>†</sup> et al. An enhanced lightweight transformer-based framework for accurate retinal disease classification from OCT images. Journal of Optics (2025). [DOI:10.1007/s12596-025-02793-6](https://doi.org/10.1007/s12596-025-02793-6) [Emerging Sources Citation Index **(Q2)**, Impact factor: 2.5 (2024)]
 - **Naveen, P.** The tyranny of algorithmic personification and why we must resist it. AI & Soc (2025). [DOI:10.1007/s00146-025-02359-x](https://doi.org/10.1007/s00146-025-02359-x) [Science Citation Index Expanded **(Q2)**, Impact factor: 4.7 (2024)]
