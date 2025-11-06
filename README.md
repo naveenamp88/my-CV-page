@@ -28,7 +28,7 @@ He is a **certified translator** for online courses organized by NPTEL (National
 
 ## Professional Experience
 
-- **Associate Professor, Dean - Ranking & Accreditation, Convener - IQAC, Research**, Dr.N.G.P. Institute of Technology, Coimbatore, India (Sep 2025 – Till date)
+- **Dean - Ranking & Accreditation, Convener - IQAC, Convener - Research (Academic & Sponsored), Associate Professor**, Dr.N.G.P. Institute of Technology, Coimbatore, India (Sep 2025 – Till date)
    - **Associate Professor, Convener - IQAC, NIRF, NAAC, Research**, Dr.N.G.P. Institute of Technology, Coimbatore, India (May 2025 – Till date)
    - **Associate Professor, NIRF Coordinator**, Dr.N.G.P. Institute of Technology, Coimbatore, India (Dec 2024 – Till date)
 - **Assistant Professor, Coordinator – Sponsored Research**, KPR Institute of Engineering and Technology, Coimbatore, India (May 2023 – Nov 2024)
