@@ -325,6 +325,7 @@ He is a **certified translator** for online courses organized by NPTEL (National
 
 ## Participation in Courses, Webinars, and Workshops
 
+- Particpated in 6 days ATAL Sponsored Faculty Development Program on “Computer Vision Technology for Biomechanical Applications” at Vellore Institute of Technology, Chennai from 01/Dec/2025 to 06/Dec/2025.
 - Participated in 3 days National Level Workshop on Remote Sensing Image Analysis using Machine Learning Algorithms" Organized by the Amrita School of Engineering, at Amrita Vishwa Vidyapeetham, Coimabtore, August 6-8, 2025.
 - Participated in One-Day Workshop on “Inclusive Education Toolkit and Role of Artificial Intelligence in Inclusive Education and Assistive Technologies” held on 24th July 2025 jointly organized by Nottingham Trent University, United Kingdom and Indian Institute of Technology Palakkad, Kerala.
 - Participated in 5 days Anusandhan National Research Foundation Sponsored Workshop on "Geospatial Intelligence:Applications & Challenges in the Big Data Era" Organized by the Indian Institute of Information Technology Sri City, June 10-14, 2025.
