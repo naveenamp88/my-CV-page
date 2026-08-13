@@ -398,6 +398,7 @@ He is a **certified translator** for online courses organized by NPTEL (National
 
 ## Responsibilities Held
 
+- **Dean - Ranking & Accreditation, Convener - IQAC, Convener - Research (Academic & Sponsored)** - From Sep 2025
 - **Convener - IQAC, NAAC, Research (Academic & Sponsored)** - From June 2025
 - **NIRF Coordinator** - (From Dec 2024)
 - **Overall Coordinator – NIRF** (June 2021 to May 2023)
