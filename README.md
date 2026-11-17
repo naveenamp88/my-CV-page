@@ -390,6 +390,7 @@ He is a **certified translator** for online courses organized by NPTEL (National
 
 ## As Resource Person
 
+- One-day FDP on "Beyond Publication: Identifying Reputed Journals for Academic Excellence" at Dr. N.G.P. Arts and Science College, Coimbatore on 11 Nov 2026.
 - One-day FDP on "OBE in the AI Era: Leveraging Technology for NIRF Excellence in Teaching-Learning" at Nandha Engineering College, Erode on 30 June 2025.
 - One-day FDP on "Enhancing the Quality of Higher Education through Ranking and Accredidation Metrics" at Nandha Engineering College, Erode on 03 January 2025.
 - Mock Audit prior to NBA Visit at PSG Polytechnic College, Coimbatore on 02 April 2025.
